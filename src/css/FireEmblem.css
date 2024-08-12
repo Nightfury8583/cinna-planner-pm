@@ -1,0 +1,51 @@
+html, body, #root {
+    height: 100%;
+}
+
+.feContainer {
+    position: relative;
+    width: 100%;
+    height: calc(100% - 47px);
+    background: linear-gradient(to right, #000000, #26004d, #000000);
+    background-size: 600% 100%;
+    animation: gradient 15s ease infinite;
+    display: flex;
+    justify-content: center;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+table {
+    width: 50%;
+
+    border-color: gold;
+    border-width: 5px 5px 5px 5px;
+    border-style: solid;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr {
+    background-color: #ddd;
+}
