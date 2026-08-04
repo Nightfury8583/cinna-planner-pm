@@ -302,11 +302,11 @@ const ai4Sessions = [
     "endTime": "10:55 AM",
     "location": "Bellini Ballroom 2102",
     "track": "Recommendation & Ranking Systems (Technical)",
-    "description": "Ever wondered how Netflix knows what you&#x27;ll watch next, or how YouTube always seems to know your tas...",
+    "description": "Ever wondered how Netflix knows what you'll watch next, or how YouTube always seems to know your tas...",
     "day": "Tuesday"
   },
   {
-    "title": "The AI Education-Industry Pact: Ethics, Impact & What&#x27;s Next [RSVP REQUIRED]",
+    "title": "The AI Education-Industry Pact: Ethics, Impact & What's Next [RSVP REQUIRED]",
     "startTime": "10:15 AM",
     "endTime": "11:05 AM",
     "location": "Room 305",
@@ -432,7 +432,7 @@ const ai4Sessions = [
     "day": "Tuesday"
   },
   {
-    "title": "From Pilot to Profit: A Chief Commercial Officer&#x27;s Take On What AI Looks Like When It Works",
+    "title": "From Pilot to Profit: A Chief Commercial Officer's Take On What AI Looks Like When It Works",
     "startTime": "11:05 AM",
     "endTime": "11:25 AM",
     "location": "Palazzo Ballroom L",
@@ -464,7 +464,7 @@ const ai4Sessions = [
     "endTime": "11:25 AM",
     "location": "Palazzo Ballroom E",
     "track": "Education",
-    "description": "Exhausted by the lack of planning time and the pressure to meet every student&#x27;s needs? It\u2019s time to ...",
+    "description": "Exhausted by the lack of planning time and the pressure to meet every student's needs? It\u2019s time to ...",
     "day": "Tuesday"
   },
   {
@@ -522,7 +522,7 @@ const ai4Sessions = [
     "day": "Tuesday"
   },
   {
-    "title": "From Prompts to Playbooks: Turning Your Best Lawyers&#x27; Judgment into AI Workflows",
+    "title": "From Prompts to Playbooks: Turning Your Best Lawyers' Judgment into AI Workflows",
     "startTime": "11:05 AM",
     "endTime": "11:25 AM",
     "location": "Delfino Ballroom 4103",
@@ -531,7 +531,7 @@ const ai4Sessions = [
     "day": "Tuesday"
   },
   {
-    "title": "Your Martech Stack Doesn&#x27;t Need Another Dashboard. It Needs a Nervous System.",
+    "title": "Your Martech Stack Doesn't Need Another Dashboard. It Needs a Nervous System.",
     "startTime": "11:05 AM",
     "endTime": "11:25 AM",
     "location": "Marcello Ballroom 4403",
@@ -554,7 +554,7 @@ const ai4Sessions = [
     "endTime": "11:25 AM",
     "location": "Palazzo Ballroom D",
     "track": "Oversight: AI ROI",
-    "description": "Most companies aren&#x27;t failing at AI because the technology is weak. They&#x27;re failing because they&#x27;re ...",
+    "description": "Most companies aren't failing at AI because the technology is weak. They're failing because they're ...",
     "day": "Tuesday"
   },
   {
@@ -689,7 +689,7 @@ const ai4Sessions = [
     "endTime": "11:50 AM",
     "location": "Palazzo Ballroom B",
     "track": "Aerospace & Defense",
-    "description": "AI isn&#x27;t a feature you bolt onto a drone. It&#x27;s the decision that determines whether your platform ca...",
+    "description": "AI isn't a feature you bolt onto a drone. It's the decision that determines whether your platform ca...",
     "day": "Tuesday"
   },
   {
@@ -842,7 +842,7 @@ const ai4Sessions = [
     "endTime": "12:10 PM",
     "location": "Palazzo Ballroom M",
     "track": "Infrastructure: AI Platforms & Tools",
-    "description": "You&#x27;ve heard about the Epstein Files, but do you know how reporters used AI to cover the story? Thre...",
+    "description": "You've heard about the Epstein Files, but do you know how reporters used AI to cover the story? Thre...",
     "day": "Tuesday"
   },
   {
@@ -891,7 +891,7 @@ const ai4Sessions = [
     "day": "Tuesday"
   },
   {
-    "title": "Human-Centric Engineering: Moving From What&#x27;s Possible to What&#x27;s Beneficial",
+    "title": "Human-Centric Engineering: Moving From What's Possible to What's Beneficial",
     "startTime": "11:30 AM",
     "endTime": "11:50 AM",
     "location": "Lando Ballroom 4203",
@@ -954,7 +954,7 @@ const ai4Sessions = [
     "day": "Tuesday"
   },
   {
-    "title": "The Hater&#x27;s Guide To The AI Bubble",
+    "title": "The Hater's Guide To The AI Bubble",
     "startTime": "11:55 AM",
     "endTime": "12:15 PM",
     "location": "Palazzo Ballroom B",
@@ -968,7 +968,7 @@ const ai4Sessions = [
     "endTime": "11:50 AM",
     "location": "Lando Ballroom 4204",
     "track": "Software Engineering",
-    "description": "If you&#x27;re already using Cursor or Claude Code, you&#x27;re closer to agent-based engineering than you thi...",
+    "description": "If you're already using Cursor or Claude Code, you're closer to agent-based engineering than you thi...",
     "day": "Tuesday"
   },
   {
@@ -1035,7 +1035,7 @@ const ai4Sessions = [
     "day": "Tuesday"
   },
   {
-    "title": "From Demo to Millions: The Observability Loop Behind Lenskart&#x27;s Voice, Video & AR Agents",
+    "title": "From Demo to Millions: The Observability Loop Behind Lenskart's Voice, Video & AR Agents",
     "startTime": "12:20 PM",
     "endTime": "12:40 PM",
     "location": "Bellini Ballroom 2104",
@@ -1067,7 +1067,7 @@ const ai4Sessions = [
     "endTime": "12:40 PM",
     "location": "Marcello Ballroom 4404",
     "track": "Cybersecurity",
-    "description": "What if the biggest obstacle to modern cloud defense isn&#x27;t your tooling or your team, it&#x27;s the scree...",
+    "description": "What if the biggest obstacle to modern cloud defense isn't your tooling or your team, it's the scree...",
     "day": "Tuesday"
   },
   {
@@ -1094,7 +1094,7 @@ const ai4Sessions = [
     "endTime": "12:40 PM",
     "location": "Titian Ballroom 2302",
     "track": "Enterprise Unlocks: Upskilling in the AI Era",
-    "description": "If you think the solution to lagging AI adoption is more training sessions, you&#x27;re unlikely to move ...",
+    "description": "If you think the solution to lagging AI adoption is more training sessions, you're unlikely to move ...",
     "day": "Tuesday"
   },
   {
@@ -1134,12 +1134,12 @@ const ai4Sessions = [
     "day": "Tuesday"
   },
   {
-    "title": "Insurance Industry&#x27;s AI Value Problem: The Reality of Unit Economics, Reliability and Auditability",
+    "title": "Insurance Industry's AI Value Problem: The Reality of Unit Economics, Reliability and Auditability",
     "startTime": "12:20 PM",
     "endTime": "12:40 PM",
     "location": "Delfino Ballroom 4103",
     "track": "Insurance",
-    "description": "What happens when &#x27;Agentic Hype&#x27; meets &#x27;Insurance Reality&#x27;? I will explain why the \u201cAgentic Everythi...",
+    "description": "What happens when 'Agentic Hype' meets 'Insurance Reality'? I will explain why the \u201cAgentic Everythi...",
     "day": "Tuesday"
   },
   {
@@ -1220,7 +1220,7 @@ const ai4Sessions = [
     "endTime": "2:30 PM",
     "location": "Venetian Ballroom D",
     "track": "AI Agents: Applications & Use Cases",
-    "description": "What if the most complex robotic systems in the world could tell you exactly what&#x27;s wrong, and how t...",
+    "description": "What if the most complex robotic systems in the world could tell you exactly what's wrong, and how t...",
     "day": "Tuesday"
   },
   {
@@ -1274,7 +1274,7 @@ const ai4Sessions = [
     "endTime": "4:10 PM",
     "location": "Halls B&C",
     "track": "Agentic Live Demos",
-    "description": "Agentic AI has everybody talking\u2014come see what&#x27;s next.\nExperience AI in action at the Agentic Live D...",
+    "description": "Agentic AI has everybody talking\u2014come see what's next.\nExperience AI in action at the Agentic Live D...",
     "day": "Tuesday"
   },
   {
@@ -1418,7 +1418,7 @@ const ai4Sessions = [
     "endTime": "2:30 PM",
     "location": "Marcello Ballroom 4403",
     "track": "Marketing & Growth",
-    "description": "Every company is sitting on pipeline it can&#x27;t see. The signals that would surface it \u2014 a renewal at ...",
+    "description": "Every company is sitting on pipeline it can't see. The signals that would surface it \u2014 a renewal at ...",
     "day": "Tuesday"
   },
   {
@@ -1517,7 +1517,7 @@ const ai4Sessions = [
     "endTime": "2:45 PM",
     "location": "Venetian Ballroom G",
     "track": "AI Startups & VCs",
-    "description": "What if your most valuable asset wasn&#x27;t your resume, your network, or your time but your digital sel...",
+    "description": "What if your most valuable asset wasn't your resume, your network, or your time but your digital sel...",
     "day": "Tuesday"
   },
   {
@@ -1526,7 +1526,7 @@ const ai4Sessions = [
     "endTime": "2:55 PM",
     "location": "Venetian Ballroom G",
     "track": "AI Startups & VCs",
-    "description": "Most teams don&#x27;t realize their deployed agents are already generating the training data they need. T...",
+    "description": "Most teams don't realize their deployed agents are already generating the training data they need. T...",
     "day": "Tuesday"
   },
   {
@@ -1535,7 +1535,7 @@ const ai4Sessions = [
     "endTime": "2:55 PM",
     "location": "Halls B&C",
     "track": "Agentic Live Demos",
-    "description": "Deploying AI agents in secure VPCs or air-gapped environments doesn&#x27;t mean you have to sacrifice cap...",
+    "description": "Deploying AI agents in secure VPCs or air-gapped environments doesn't mean you have to sacrifice cap...",
     "day": "Tuesday"
   },
   {
@@ -1544,7 +1544,7 @@ const ai4Sessions = [
     "endTime": "2:55 PM",
     "location": "Palazzo Ballroom G",
     "track": "CAIO, CIO, & IT Leaders",
-    "description": "Why isn&#x27;t your AI investment showing up in your ROI numbers yet, even as the models keep getting sma...",
+    "description": "Why isn't your AI investment showing up in your ROI numbers yet, even as the models keep getting sma...",
     "day": "Tuesday"
   },
   {
@@ -1575,7 +1575,7 @@ const ai4Sessions = [
     "day": "Tuesday"
   },
   {
-    "title": "Introducing Redpanda&#x27;s Agentic Data Plane (ADP)",
+    "title": "Introducing Redpanda's Agentic Data Plane (ADP)",
     "startTime": "2:35 PM",
     "endTime": "2:55 PM",
     "location": "Palazzo Ballroom M",
@@ -1584,7 +1584,7 @@ const ai4Sessions = [
     "day": "Tuesday"
   },
   {
-    "title": "Humanoids Will End Manufacturing&#x27;s Most Dangerous Jobs\u2014And That\u2019s a Good Thing",
+    "title": "Humanoids Will End Manufacturing's Most Dangerous Jobs\u2014And That\u2019s a Good Thing",
     "startTime": "2:35 PM",
     "endTime": "2:55 PM",
     "location": "Titian Ballroom 2304",
@@ -1638,7 +1638,7 @@ const ai4Sessions = [
     "day": "Tuesday"
   },
   {
-    "title": "Your AI isn&#x27;t Global. It Just Thinks It Is.",
+    "title": "Your AI isn't Global. It Just Thinks It Is.",
     "startTime": "3:00 PM",
     "endTime": "3:20 PM",
     "location": "Venetian Ballroom D",
@@ -1724,16 +1724,16 @@ const ai4Sessions = [
     "endTime": "3:35 PM",
     "location": "Venetian Ballroom G",
     "track": "AI Startups & VCs",
-    "description": "What if AI&#x27;s biggest mistake isn&#x27;t the technology \u2014 it&#x27;s using it as a replacement? The AI replaceme...",
+    "description": "What if AI's biggest mistake isn't the technology \u2014 it's using it as a replacement? The AI replaceme...",
     "day": "Tuesday"
   },
   {
-    "title": "Your Agents Don&#x27;t Deserve Your Trust. Here&#x27;s How They Earn It.",
+    "title": "Your Agents Don't Deserve Your Trust. Here's How They Earn It.",
     "startTime": "3:00 PM",
     "endTime": "3:15 PM",
     "location": "Halls B&C",
     "track": "Agentic Live Demos",
-    "description": "The AI industry has decided agents are valuable. It hasn&#x27;t decided to prove it. \nYour organization i...",
+    "description": "The AI industry has decided agents are valuable. It hasn't decided to prove it. \nYour organization i...",
     "day": "Tuesday"
   },
   {
@@ -1742,7 +1742,7 @@ const ai4Sessions = [
     "endTime": "3:35 PM",
     "location": "Halls B&C",
     "track": "Agentic Live Demos",
-    "description": "AI innovation gets you in the room, but Trust closes the contract. \nIn the AI boom, trust isn&#x27;t a co...",
+    "description": "AI innovation gets you in the room, but Trust closes the contract. \nIn the AI boom, trust isn't a co...",
     "day": "Tuesday"
   },
   {
@@ -2003,7 +2003,7 @@ const ai4Sessions = [
     "endTime": "4:10 PM",
     "location": "Venetian Ballroom D",
     "track": "AI Agents: Applications & Use Cases",
-    "description": "Autonomous finance is the promise of the decade, but here&#x27;s what nobody pitching it will tell you: a...",
+    "description": "Autonomous finance is the promise of the decade, but here's what nobody pitching it will tell you: a...",
     "day": "Tuesday"
   },
   {
@@ -2021,7 +2021,7 @@ const ai4Sessions = [
     "endTime": "4:10 PM",
     "location": "Venetian Ballroom F",
     "track": "AI Agents: Foundation & Strategy",
-    "description": "Autonomous agents don&#x27;t just answer \u2014 they plan and act, carrying your authority as they call tools ...",
+    "description": "Autonomous agents don't just answer \u2014 they plan and act, carrying your authority as they call tools ...",
     "day": "Tuesday"
   },
   {
@@ -2030,7 +2030,7 @@ const ai4Sessions = [
     "endTime": "4:10 PM",
     "location": "Venetian Ballroom A",
     "track": "AI Research Summit (Technical)",
-    "description": "The success of today&#x27;s large language models (LLMs) depends on the observation that larger models an...",
+    "description": "The success of today's large language models (LLMs) depends on the observation that larger models an...",
     "day": "Tuesday"
   },
   {
@@ -2070,12 +2070,12 @@ const ai4Sessions = [
     "day": "Tuesday"
   },
   {
-    "title": "Reaching Users on Every Screen: How Flutter&#x27;s Multi-platform Capabilities Can Scale Your AI Investments",
+    "title": "Reaching Users on Every Screen: How Flutter's Multi-platform Capabilities Can Scale Your AI Investments",
     "startTime": "3:50 PM",
     "endTime": "4:10 PM",
     "location": "Palazzo Ballroom G",
     "track": "CAIO, CIO, & IT Leaders",
-    "description": "&quot;The hardest part of launching an experience shouldn&#x27;t be deciding where to launch it. Yet, many org...",
+    "description": "&quot;The hardest part of launching an experience shouldn't be deciding where to launch it. Yet, many org...",
     "day": "Tuesday"
   },
   {
@@ -2102,7 +2102,7 @@ const ai4Sessions = [
     "endTime": "4:10 PM",
     "location": "Bellini Ballroom 2102",
     "track": "Evaluation, Observability, & Interpretability (Technical)",
-    "description": "Enterprise agents stall when their guardrails can&#x27;t be trusted \u2014 1 in 3 LLM-as-judge eval scores are...",
+    "description": "Enterprise agents stall when their guardrails can't be trusted \u2014 1 in 3 LLM-as-judge eval scores are...",
     "day": "Tuesday"
   },
   {
@@ -2147,7 +2147,7 @@ const ai4Sessions = [
     "endTime": "4:10 PM",
     "location": "Delfino Ballroom 4104",
     "track": "Infrastructure: AI Agents",
-    "description": "Most AI pilots don&#x27;t fail because of the technology. They stall somewhere between proof of concept a...",
+    "description": "Most AI pilots don't fail because of the technology. They stall somewhere between proof of concept a...",
     "day": "Tuesday"
   },
   {
@@ -2187,7 +2187,7 @@ const ai4Sessions = [
     "day": "Tuesday"
   },
   {
-    "title": "It&#x27;s no longer about the tech. It&#x27;s about the people. [RSVP REQUIRED]",
+    "title": "It's no longer about the tech. It's about the people. [RSVP REQUIRED]",
     "startTime": "3:50 PM",
     "endTime": "4:40 PM",
     "location": "Room 303",
@@ -2210,7 +2210,7 @@ const ai4Sessions = [
     "endTime": "4:10 PM",
     "location": "Lando Ballroom 4204",
     "track": "Software Engineering",
-    "description": "Most AI agents in production fail not because of the model, but because the APIs they call weren&#x27;t d...",
+    "description": "Most AI agents in production fail not because of the model, but because the APIs they call weren't d...",
     "day": "Tuesday"
   },
   {
@@ -2241,7 +2241,7 @@ const ai4Sessions = [
     "day": "Tuesday"
   },
   {
-    "title": "Your AI Problem Isn&#x27;t the AI",
+    "title": "Your AI Problem Isn't the AI",
     "startTime": "4:15 PM",
     "endTime": "4:35 PM",
     "location": "Venetian Ballroom H",
@@ -2259,7 +2259,7 @@ const ai4Sessions = [
     "day": "Tuesday"
   },
   {
-    "title": "Learning the Regulatory Code of Alzheimer&#x27;s Genomes, Towfique Raj, Icahn School of Medicine",
+    "title": "Learning the Regulatory Code of Alzheimer's Genomes, Towfique Raj, Icahn School of Medicine",
     "startTime": "4:15 PM",
     "endTime": "4:35 PM",
     "location": "Venetian Ballroom A",
@@ -2286,7 +2286,7 @@ const ai4Sessions = [
     "day": "Tuesday"
   },
   {
-    "title": "Why Your AI Keeps Hallucinating: The Architecture Problem Nobody&#x27;s Solving",
+    "title": "Why Your AI Keeps Hallucinating: The Architecture Problem Nobody's Solving",
     "startTime": "4:25 PM",
     "endTime": "4:35 PM",
     "location": "Venetian Ballroom G",
@@ -2367,7 +2367,7 @@ const ai4Sessions = [
     "day": "Tuesday"
   },
   {
-    "title": "Nurturing AI: Teaching Machines to Understand What They Can&#x27;t Feel",
+    "title": "Nurturing AI: Teaching Machines to Understand What They Can't Feel",
     "startTime": "4:15 PM",
     "endTime": "4:35 PM",
     "location": "Palazzo Ballroom M",
@@ -2489,7 +2489,7 @@ const ai4Sessions = [
     "endTime": "4:50 PM",
     "location": "Venetian Ballroom G",
     "track": "AI Startups & VCs",
-    "description": "Who pays when the machine is wrong? It&#x27;s a question insurance has answered five times in 160 years \u2014...",
+    "description": "Who pays when the machine is wrong? It's a question insurance has answered five times in 160 years \u2014...",
     "day": "Tuesday"
   },
   {
@@ -2534,7 +2534,7 @@ const ai4Sessions = [
     "endTime": "5:00 PM",
     "location": "Marcello Ballroom 4403",
     "track": "Marketing & Growth",
-    "description": "Every AI answer is assembled from someone else&#x27;s work. The traffic that paid for that work is fading...",
+    "description": "Every AI answer is assembled from someone else's work. The traffic that paid for that work is fading...",
     "day": "Tuesday"
   },
   {
@@ -2633,7 +2633,7 @@ const ai4Sessions = [
     "endTime": "9:51 AM",
     "location": "Hall A - Keynotes",
     "track": "Keynote",
-    "description": "AI capability is at an all-time high, but for most organizations, the hardest problem isn&#x27;t getting ...",
+    "description": "AI capability is at an all-time high, but for most organizations, the hardest problem isn't getting ...",
     "day": "Wednesday"
   },
   {
@@ -2664,7 +2664,7 @@ const ai4Sessions = [
     "day": "Wednesday"
   },
   {
-    "title": "&quot;Who&#x27;s Accountable When AI Decides and When It Fails?&quot; Roundtable Moderated by Ron Whitworth, Truist [RSVP REQUIRED]",
+    "title": "&quot;Who's Accountable When AI Decides and When It Fails?&quot; Roundtable Moderated by Ron Whitworth, Truist [RSVP REQUIRED]",
     "startTime": "10:30 AM",
     "endTime": "11:20 AM",
     "location": "Room 305",
@@ -2736,7 +2736,7 @@ const ai4Sessions = [
     "day": "Wednesday"
   },
   {
-    "title": "Everyone&#x27;s a Builder Now. Is Anyone Watching?",
+    "title": "Everyone's a Builder Now. Is Anyone Watching?",
     "startTime": "10:30 AM",
     "endTime": "10:50 AM",
     "location": "Titian Ballroom 2306",
@@ -2880,7 +2880,7 @@ const ai4Sessions = [
     "day": "Wednesday"
   },
   {
-    "title": "Why Agentic AI Dies in Pilot: A GTM Leader&#x27;s Framework for Real ROI",
+    "title": "Why Agentic AI Dies in Pilot: A GTM Leader's Framework for Real ROI",
     "startTime": "10:30 AM",
     "endTime": "10:50 AM",
     "location": "Venetian Ballroom F",
@@ -3047,7 +3047,7 @@ const ai4Sessions = [
     "endTime": "11:40 AM",
     "location": "Lando Ballroom 4204",
     "track": "Financial Services: Banks",
-    "description": "Most companies think they&#x27;re scaling AI. What they&#x27;re actually scaling is experiments. In this sessi...",
+    "description": "Most companies think they're scaling AI. What they're actually scaling is experiments. In this sessi...",
     "day": "Wednesday"
   },
   {
@@ -3065,7 +3065,7 @@ const ai4Sessions = [
     "endTime": "11:40 AM",
     "location": "Venetian Ballroom E",
     "track": "Generative AI: Deployment at Scale",
-    "description": "The biggest threat to enterprise AI ROI isn&#x27;t model quality it&#x27;s infrastructure economics. With GPU ...",
+    "description": "The biggest threat to enterprise AI ROI isn't model quality it's infrastructure economics. With GPU ...",
     "day": "Wednesday"
   },
   {
@@ -3101,7 +3101,7 @@ const ai4Sessions = [
     "endTime": "11:40 AM",
     "location": "Delfino Ballroom 4104",
     "track": "Infrastructure: AI Agents",
-    "description": "Agents have changed the economics of AI inference. A chatbot&#x27;s cost scales roughly linearly with the...",
+    "description": "Agents have changed the economics of AI inference. A chatbot's cost scales roughly linearly with the...",
     "day": "Wednesday"
   },
   {
@@ -3227,7 +3227,7 @@ const ai4Sessions = [
     "endTime": "12:05 PM",
     "location": "Bellini Ballroom 2104",
     "track": "Google Cloud Programming",
-    "description": "Learn how to build agents that share relevant informaiton with you. You&#x27;ll see how to enable telemet...",
+    "description": "Learn how to build agents that share relevant informaiton with you. You'll see how to enable telemet...",
     "day": "Wednesday"
   },
   {
@@ -3245,7 +3245,7 @@ const ai4Sessions = [
     "endTime": "12:05 PM",
     "location": "Delfino Ballroom 4104",
     "track": "Infrastructure: AI Agents",
-    "description": "The bottleneck for AI productivity in the enterprise isn&#x27;t the models - it&#x27;s context. Who has access...",
+    "description": "The bottleneck for AI productivity in the enterprise isn't the models - it's context. Who has access...",
     "day": "Wednesday"
   },
   {
@@ -3375,16 +3375,16 @@ const ai4Sessions = [
     "day": "Wednesday"
   },
   {
-    "title": "Beyond the Black Box: Interpretability as AI Security&#x27;s Missing Layer",
+    "title": "Beyond the Black Box: Interpretability as AI Security's Missing Layer",
     "startTime": "11:55 AM",
     "endTime": "12:05 PM",
     "location": "Venetian Ballroom G",
     "track": "AI Startups & VCs",
-    "description": "The strongest signal of attacks against AI models, like jailbreaks and prompt injections, isn&#x27;t in t...",
+    "description": "The strongest signal of attacks against AI models, like jailbreaks and prompt injections, isn't in t...",
     "day": "Wednesday"
   },
   {
-    "title": "AI Sprawl Is Exploding: Get Ahead of Governance and Orchestration Challenges Before It&#x27;s Too Late",
+    "title": "AI Sprawl Is Exploding: Get Ahead of Governance and Orchestration Challenges Before It's Too Late",
     "startTime": "12:10 PM",
     "endTime": "12:30 PM",
     "location": "Palazzo Ballroom G",
@@ -3425,7 +3425,7 @@ const ai4Sessions = [
     "endTime": "12:30 PM",
     "location": "Palazzo Ballroom B",
     "track": "Government & Public Sector",
-    "description": "I&#x27;ll share our unconventional approach to giving our entire team access to GenAI \u2014why humor and a se...",
+    "description": "I'll share our unconventional approach to giving our entire team access to GenAI \u2014why humor and a se...",
     "day": "Wednesday"
   },
   {
@@ -3452,7 +3452,7 @@ const ai4Sessions = [
     "endTime": "12:30 PM",
     "location": "Delfino Ballroom 4103",
     "track": "Vision, Spatial, & World Models (Technical)",
-    "description": "Event recording sounds like a solved problem. It isn&#x27;t. I&#x27;ll walk through how we evolved NATE, Slide...",
+    "description": "Event recording sounds like a solved problem. It isn't. I'll walk through how we evolved NATE, Slide...",
     "day": "Wednesday"
   },
   {
@@ -3497,7 +3497,7 @@ const ai4Sessions = [
     "endTime": "12:30 PM",
     "location": "Venetian Ballroom D",
     "track": "AI Agents: Applications & Use Cases",
-    "description": "Most enterprise AI agents being built right now won&#x27;t make it to durable production. Not because the...",
+    "description": "Most enterprise AI agents being built right now won't make it to durable production. Not because the...",
     "day": "Wednesday"
   },
   {
@@ -3506,7 +3506,7 @@ const ai4Sessions = [
     "endTime": "12:30 PM",
     "location": "Venetian Ballroom H",
     "track": "AI Agents: Deployment at Scale",
-    "description": "For decades, the web was Google&#x27;s domain, organizing the chaos for humans. Now AI agents are taking ...",
+    "description": "For decades, the web was Google's domain, organizing the chaos for humans. Now AI agents are taking ...",
     "day": "Wednesday"
   },
   {
@@ -3533,7 +3533,7 @@ const ai4Sessions = [
     "endTime": "12:20 PM",
     "location": "Venetian Ballroom G",
     "track": "AI Startups & VCs",
-    "description": "After training 300+ companies on deploying their first AI Agents, I&#x27;ll show you how AI is moving bey...",
+    "description": "After training 300+ companies on deploying their first AI Agents, I'll show you how AI is moving bey...",
     "day": "Wednesday"
   },
   {
@@ -3551,11 +3551,11 @@ const ai4Sessions = [
     "endTime": "12:30 PM",
     "location": "Veronese Ballroom 2504",
     "track": "AI Agents (Technical)",
-    "description": "Agent building is a constant process of iteration, which raises two questions most teams don&#x27;t have ...",
+    "description": "Agent building is a constant process of iteration, which raises two questions most teams don't have ...",
     "day": "Wednesday"
   },
   {
-    "title": "You Can&#x27;t Automate What You Can&#x27;t See",
+    "title": "You Can't Automate What You Can't See",
     "startTime": "12:10 PM",
     "endTime": "12:30 PM",
     "location": "Palazzo Ballroom E",
@@ -3587,7 +3587,7 @@ const ai4Sessions = [
     "endTime": "4:10 PM",
     "location": "Halls B&C",
     "track": "Agentic Live Demos",
-    "description": "Agentic AI has everybody talking\u2014come see what&#x27;s next.\nExperience AI in action at the Agentic Live D...",
+    "description": "Agentic AI has everybody talking\u2014come see what's next.\nExperience AI in action at the Agentic Live D...",
     "day": "Wednesday"
   },
   {
@@ -3636,7 +3636,7 @@ const ai4Sessions = [
     "day": "Wednesday"
   },
   {
-    "title": "Capital, Code, or Contracts: A Data and AI Executive&#x27;s Build vs Buy Playbook",
+    "title": "Capital, Code, or Contracts: A Data and AI Executive's Build vs Buy Playbook",
     "startTime": "2:00 PM",
     "endTime": "2:20 PM",
     "location": "Palazzo Ballroom L",
@@ -3897,7 +3897,7 @@ const ai4Sessions = [
     "day": "Wednesday"
   },
   {
-    "title": "Confident machines: Why AI&#x27;s trust problem starts before the model ever runs",
+    "title": "Confident machines: Why AI's trust problem starts before the model ever runs",
     "startTime": "2:25 PM",
     "endTime": "2:45 PM",
     "location": "Palazzo Ballroom L",
@@ -3924,12 +3924,12 @@ const ai4Sessions = [
     "day": "Wednesday"
   },
   {
-    "title": "Finance Doesn&#x27;t Need More Automation. It Needs Autonomous Execution.",
+    "title": "Finance Doesn't Need More Automation. It Needs Autonomous Execution.",
     "startTime": "2:25 PM",
     "endTime": "2:45 PM",
     "location": "Venetian Ballroom D",
     "track": "AI Agents: Applications & Use Cases",
-    "description": "What if your next finance transformation didn&#x27;t require replacing your ERP?\n\nFinance has spent decad...",
+    "description": "What if your next finance transformation didn't require replacing your ERP?\n\nFinance has spent decad...",
     "day": "Wednesday"
   },
   {
@@ -3951,7 +3951,7 @@ const ai4Sessions = [
     "day": "Wednesday"
   },
   {
-    "title": "I Couldn&#x27;t Buy It So I Built It: Citizen Developers Building AI Applications - Nina Eisenberg and Robert Greisemer",
+    "title": "I Couldn't Buy It So I Built It: Citizen Developers Building AI Applications - Nina Eisenberg and Robert Greisemer",
     "startTime": "2:25 PM",
     "endTime": "3:05 PM",
     "location": "Veronese Ballroom 2504",
@@ -3965,7 +3965,7 @@ const ai4Sessions = [
     "endTime": "2:45 PM",
     "location": "Delfino Ballroom 4104",
     "track": "Infrastructure: AI Agents",
-    "description": "I&#x27;ve watched organizations rush AI adoption straight into a compliance crisis \u2014 and the gap is alway...",
+    "description": "I've watched organizations rush AI adoption straight into a compliance crisis \u2014 and the gap is alway...",
     "day": "Wednesday"
   },
   {
@@ -3983,7 +3983,7 @@ const ai4Sessions = [
     "endTime": "2:45 PM",
     "location": "Marcello Ballroom 4404",
     "track": "Healthcare: Care Providers",
-    "description": "What if the problem with healthcare analytics isn&#x27;t the models, but the fact that someone has to go ...",
+    "description": "What if the problem with healthcare analytics isn't the models, but the fact that someone has to go ...",
     "day": "Wednesday"
   },
   {
@@ -4118,7 +4118,7 @@ const ai4Sessions = [
     "endTime": "3:10 PM",
     "location": "Bellini Ballroom 2102",
     "track": "Sales & Revenue Operations",
-    "description": "The Sales Software stack as we know it is being replaced. The next generation of sales teams won&#x27;t t...",
+    "description": "The Sales Software stack as we know it is being replaced. The next generation of sales teams won't t...",
     "day": "Wednesday"
   },
   {
@@ -4136,7 +4136,7 @@ const ai4Sessions = [
     "endTime": "3:00 PM",
     "location": "Venetian Ballroom G",
     "track": "AI Startups & VCs",
-    "description": "AI spending is projected to reach $2.59 trillion in 2026, yet most organizations still can&#x27;t answer ...",
+    "description": "AI spending is projected to reach $2.59 trillion in 2026, yet most organizations still can't answer ...",
     "day": "Wednesday"
   },
   {
@@ -4208,7 +4208,7 @@ const ai4Sessions = [
     "endTime": "3:10 PM",
     "location": "Palazzo Ballroom G",
     "track": "CAIO, CIO, & IT Leaders",
-    "description": "Ninety-five percent of enterprise AI pilots never reach production, and the reason usually isn&#x27;t the...",
+    "description": "Ninety-five percent of enterprise AI pilots never reach production, and the reason usually isn't the...",
     "day": "Wednesday"
   },
   {
@@ -4226,7 +4226,7 @@ const ai4Sessions = [
     "endTime": "3:10 PM",
     "location": "Palazzo Ballroom L",
     "track": "Data Analytics & BI",
-    "description": "AI has gotten remarkably good at software. But most knowledge work runs on something AI still doesn&#x27;...",
+    "description": "AI has gotten remarkably good at software. But most knowledge work runs on something AI still doesn'...",
     "day": "Wednesday"
   },
   {
@@ -4316,7 +4316,7 @@ const ai4Sessions = [
     "endTime": "4:00 PM",
     "location": "Venetian Ballroom E",
     "track": "Generative AI: Applications & Use Cases",
-    "description": "Generative AI is no longer just a research breakthrough. It&#x27;s powering some of the most innovative b...",
+    "description": "Generative AI is no longer just a research breakthrough. It's powering some of the most innovative b...",
     "day": "Wednesday"
   },
   {
@@ -4338,7 +4338,7 @@ const ai4Sessions = [
     "day": "Wednesday"
   },
   {
-    "title": "From Pilot to Production: The CIO&#x27;s Playbook for Deploying AI Agents at Scale",
+    "title": "From Pilot to Production: The CIO's Playbook for Deploying AI Agents at Scale",
     "startTime": "3:15 PM",
     "endTime": "3:35 PM",
     "location": "Palazzo Ballroom G",
@@ -4487,7 +4487,7 @@ const ai4Sessions = [
     "endTime": "4:00 PM",
     "location": "Lando Ballroom 4203",
     "track": "Oversight: AI Explainability, Governance, & Model Risk",
-    "description": "The biggest AI risk in your organization right now isn&#x27;t a sophisticated attack. It&#x27;s an employee wh...",
+    "description": "The biggest AI risk in your organization right now isn't a sophisticated attack. It's an employee wh...",
     "day": "Wednesday"
   },
   {
@@ -4527,12 +4527,12 @@ const ai4Sessions = [
     "day": "Wednesday"
   },
   {
-    "title": "Who&#x27;s Watching the Agents? A Practical Framework for Multi-Agent Governance",
+    "title": "Who's Watching the Agents? A Practical Framework for Multi-Agent Governance",
     "startTime": "3:40 PM",
     "endTime": "4:00 PM",
     "location": "Venetian Ballroom D",
     "track": "AI Agents: Applications & Use Cases",
-    "description": "Who&#x27;s actually watching your agents and what happens when one of them goes rogue?\n\nAs enterprises mo...",
+    "description": "Who's actually watching your agents and what happens when one of them goes rogue?\n\nAs enterprises mo...",
     "day": "Wednesday"
   },
   {
@@ -4550,7 +4550,7 @@ const ai4Sessions = [
     "endTime": "4:25 PM",
     "location": "Titian Ballroom 2306",
     "track": "AI Policy Summit",
-    "description": "This is the most contested AI policy conversation in Washington right now. The administration&#x27;s exec...",
+    "description": "This is the most contested AI policy conversation in Washington right now. The administration's exec...",
     "day": "Wednesday"
   },
   {
@@ -4658,7 +4658,7 @@ const ai4Sessions = [
     "endTime": "4:45 PM",
     "location": "Marcello Ballroom 4404",
     "track": "Healthcare: Care Providers",
-    "description": "AI isn&#x27;t replacing the human touch in patient care - it is making room for more of it.\n\nSharing our ...",
+    "description": "AI isn't replacing the human touch in patient care - it is making room for more of it.\n\nSharing our ...",
     "day": "Wednesday"
   },
   {
@@ -4721,7 +4721,7 @@ const ai4Sessions = [
     "endTime": "4:25 PM",
     "location": "Palazzo Ballroom D",
     "track": "Oversight: AI ROI",
-    "description": "What if the biggest ROI drain on your voice agent deployment isn&#x27;t a bug in the system \u2014 it&#x27;s a tone...",
+    "description": "What if the biggest ROI drain on your voice agent deployment isn't a bug in the system \u2014 it's a tone...",
     "day": "Wednesday"
   },
   {
@@ -4743,12 +4743,12 @@ const ai4Sessions = [
     "day": "Wednesday"
   },
   {
-    "title": "Why Your Next Enterprise App Won&#x27;t Come From a Vendor",
+    "title": "Why Your Next Enterprise App Won't Come From a Vendor",
     "startTime": "4:05 PM",
     "endTime": "4:25 PM",
     "location": "Palazzo Ballroom E",
     "track": "HR & Recruiting",
-    "description": "For twenty years, buying enterprise software meant filing requirements, waiting on a vendor&#x27;s roadma...",
+    "description": "For twenty years, buying enterprise software meant filing requirements, waiting on a vendor's roadma...",
     "day": "Wednesday"
   },
   {
@@ -4932,7 +4932,7 @@ const ai4Sessions = [
     "day": "Wednesday"
   },
   {
-    "title": "AI&#x27;s Hidden Cost: What Boards Need to Budget for Before It&#x27;s Too Late",
+    "title": "AI's Hidden Cost: What Boards Need to Budget for Before It's Too Late",
     "startTime": "4:55 PM",
     "endTime": "5:15 PM",
     "location": "Palazzo Ballroom D",
@@ -4950,7 +4950,7 @@ const ai4Sessions = [
     "day": "Wednesday"
   },
   {
-    "title": "Beyond Usage: A Leader&#x27;s Playbook for an AI-Fluent Workforce",
+    "title": "Beyond Usage: A Leader's Playbook for an AI-Fluent Workforce",
     "startTime": "4:55 PM",
     "endTime": "5:15 PM",
     "location": "Titian Ballroom 2302",
@@ -4973,7 +4973,7 @@ const ai4Sessions = [
     "endTime": "5:15 PM",
     "location": "Titian Ballroom 2306",
     "track": "AI Policy Summit",
-    "description": "The closing keynote shifts from debate to action \u2014 translating the day&#x27;s policy conversations into a...",
+    "description": "The closing keynote shifts from debate to action \u2014 translating the day's policy conversations into a...",
     "day": "Wednesday"
   },
   {
@@ -5013,12 +5013,12 @@ const ai4Sessions = [
     "day": "Wednesday"
   },
   {
-    "title": "Nothing Is Undruggable: Frontier Medicines&#x27; AI Discovery Engine",
+    "title": "Nothing Is Undruggable: Frontier Medicines' AI Discovery Engine",
     "startTime": "4:55 PM",
     "endTime": "5:15 PM",
     "location": "Palazzo Ballroom M",
     "track": "Infrastructure: AI Platforms & Tools",
-    "description": "What if the proteins we call &quot;undruggable&quot; simply haven&#x27;t met the right drug discovery platform and ...",
+    "description": "What if the proteins we call &quot;undruggable&quot; simply haven't met the right drug discovery platform and ...",
     "day": "Wednesday"
   },
   {
@@ -5256,7 +5256,7 @@ const ai4Sessions = [
     "day": "Thursday"
   },
   {
-    "title": "Orchestrate, Don\u2019t Automate: How CIO&#x27;s Build AI Systems That Scale, Decide, and Execute",
+    "title": "Orchestrate, Don\u2019t Automate: How CIO's Build AI Systems That Scale, Decide, and Execute",
     "startTime": "10:15 AM",
     "endTime": "10:35 AM",
     "location": "Palazzo Ballroom G",
@@ -5283,7 +5283,7 @@ const ai4Sessions = [
     "day": "Thursday"
   },
   {
-    "title": "RAG is a Flashlight. Your AI Agent Needs a Map. -&gt; Graph Theory as an AI Agent&#x27;s Superpower in Mortgage Origination",
+    "title": "RAG is a Flashlight. Your AI Agent Needs a Map. -&gt; Graph Theory as an AI Agent's Superpower in Mortgage Origination",
     "startTime": "10:15 AM",
     "endTime": "10:55 AM",
     "location": "Titian Ballroom 2306",
@@ -5328,12 +5328,12 @@ const ai4Sessions = [
     "day": "Thursday"
   },
   {
-    "title": "What&#x27;s the ROI on Your AI? How to Get the Right Answer to This Wrong Question",
+    "title": "What's the ROI on Your AI? How to Get the Right Answer to This Wrong Question",
     "startTime": "10:15 AM",
     "endTime": "10:35 AM",
     "location": "Palazzo Ballroom D",
     "track": "Oversight: AI ROI",
-    "description": "You&#x27;ve asked it. Your board has asked it. Your CFO wants to know: &quot;What&#x27;s our ROI on AI?&quot;\n\nThe answe...",
+    "description": "You've asked it. Your board has asked it. Your CFO wants to know: &quot;What's our ROI on AI?&quot;\n\nThe answe...",
     "day": "Thursday"
   },
   {
@@ -5459,7 +5459,7 @@ const ai4Sessions = [
     "endTime": "11:00 AM",
     "location": "Palazzo Ballroom D",
     "track": "Oversight: AI ROI",
-    "description": "In my job, the only thing AI can&#x27;t do is go to jail. \n\nAccountability, judgment, the human on the ho...",
+    "description": "In my job, the only thing AI can't do is go to jail. \n\nAccountability, judgment, the human on the ho...",
     "day": "Thursday"
   },
   {
@@ -5468,7 +5468,7 @@ const ai4Sessions = [
     "endTime": "11:00 AM",
     "location": "Venetian Ballroom G",
     "track": "AI Startups & VCs",
-    "description": "Everyone now has PhD-level AI \u2014 so why do most companies still work exactly the same way? I&#x27;m Kytu L...",
+    "description": "Everyone now has PhD-level AI \u2014 so why do most companies still work exactly the same way? I'm Kytu L...",
     "day": "Thursday"
   },
   {
@@ -5504,7 +5504,7 @@ const ai4Sessions = [
     "endTime": "11:25 AM",
     "location": "Titian Ballroom 2306",
     "track": "AI Agents (Technical)",
-    "description": "Confidently wrong AI has a price tag and in 2026, it&#x27;s a line item. Your AI agent will never tell yo...",
+    "description": "Confidently wrong AI has a price tag and in 2026, it's a line item. Your AI agent will never tell yo...",
     "day": "Thursday"
   },
   {
@@ -5607,12 +5607,12 @@ const ai4Sessions = [
     "day": "Thursday"
   },
   {
-    "title": "The Agentic ROI Blueprint for Enterprise CX:  Lessons Learned from 100+ Enterprise Deployments (so you don&#x27;t have to)",
+    "title": "The Agentic ROI Blueprint for Enterprise CX:  Lessons Learned from 100+ Enterprise Deployments (so you don't have to)",
     "startTime": "11:05 AM",
     "endTime": "11:25 AM",
     "location": "Venetian Ballroom H",
     "track": "AI Agents: Deployment at Scale",
-    "description": "Every AI session at this conference will talk about cost savings. This one won&#x27;t. After hundreds of ...",
+    "description": "Every AI session at this conference will talk about cost savings. This one won't. After hundreds of ...",
     "day": "Thursday"
   },
   {
@@ -5639,7 +5639,7 @@ const ai4Sessions = [
     "endTime": "11:25 AM",
     "location": "Venetian Ballroom D",
     "track": "AI Agents: Applications & Use Cases",
-    "description": "Most AI agent projects don&#x27;t fail because the AI isn&#x27;t good enough. They stall between proof of conc...",
+    "description": "Most AI agent projects don't fail because the AI isn't good enough. They stall between proof of conc...",
     "day": "Thursday"
   },
   {
@@ -5693,7 +5693,7 @@ const ai4Sessions = [
     "endTime": "11:50 AM",
     "location": "Lando Ballroom 4203",
     "track": "Infrastructure: Cloud, Data Centers, & Compute",
-    "description": "The next generation of hyperscale datacenters won&#x27;t be built on land, but in orbit. In this fireside...",
+    "description": "The next generation of hyperscale datacenters won't be built on land, but in orbit. In this fireside...",
     "day": "Thursday"
   },
   {
@@ -5711,7 +5711,7 @@ const ai4Sessions = [
     "endTime": "11:50 AM",
     "location": "Palazzo Ballroom G",
     "track": "CAIO, CIO, & IT Leaders",
-    "description": "What if enterprise AI&#x27;s greatest competitive advantage isn&#x27;t speed or efficiency\u2014but the ability to ...",
+    "description": "What if enterprise AI's greatest competitive advantage isn't speed or efficiency\u2014but the ability to ...",
     "day": "Thursday"
   },
   {
@@ -5720,7 +5720,7 @@ const ai4Sessions = [
     "endTime": "11:50 AM",
     "location": "Delfino Ballroom 4103",
     "track": "Quantum AI (Technical)",
-    "description": "Quantum and natural language share the same structure!  Here&#x27;s the story.  \n\nOver some 20 years we h...",
+    "description": "Quantum and natural language share the same structure!  Here's the story.  \n\nOver some 20 years we h...",
     "day": "Thursday"
   },
   {
@@ -5733,12 +5733,12 @@ const ai4Sessions = [
     "day": "Thursday"
   },
   {
-    "title": "How Far Have We Moved from Don&#x27;t Be Evil? [RSVP REQUIRED]",
+    "title": "How Far Have We Moved from Don't Be Evil? [RSVP REQUIRED]",
     "startTime": "11:30 AM",
     "endTime": "12:20 PM",
     "location": "Room 301",
     "track": "Roundtable",
-    "description": "This event requires an RSVP; to attend, submit form here\n\nFrom the late 90s to 2015, Google&#x27;s motto ...",
+    "description": "This event requires an RSVP; to attend, submit form here\n\nFrom the late 90s to 2015, Google's motto ...",
     "day": "Thursday"
   },
   {
@@ -5801,7 +5801,7 @@ const ai4Sessions = [
     "endTime": "11:50 AM",
     "location": "Palazzo Ballroom D",
     "track": "Oversight: AI ROI",
-    "description": "Your AI token spend keeps climbing \u2014 but can you actually prove what it&#x27;s buying you?\n\nEnterprises a...",
+    "description": "Your AI token spend keeps climbing \u2014 but can you actually prove what it's buying you?\n\nEnterprises a...",
     "day": "Thursday"
   },
   {
@@ -5810,7 +5810,7 @@ const ai4Sessions = [
     "endTime": "11:50 AM",
     "location": "Veronese Ballroom 2504",
     "track": "Synthetic Data & Data Generation (Technical)",
-    "description": "What if the biggest bottleneck in your AI pipeline isn&#x27;t your model \u2014 it&#x27;s your data? \n\nAs AI system...",
+    "description": "What if the biggest bottleneck in your AI pipeline isn't your model \u2014 it's your data? \n\nAs AI system...",
     "day": "Thursday"
   },
   {
@@ -5909,7 +5909,7 @@ const ai4Sessions = [
     "endTime": "12:45 PM",
     "location": "Room 304",
     "track": "Roundtable (Technical)",
-    "description": "This event requires an RSVP; to attend, submit form here\n\nAre we limiting AI&#x27;s true potential by tre...",
+    "description": "This event requires an RSVP; to attend, submit form here\n\nAre we limiting AI's true potential by tre...",
     "day": "Thursday"
   },
   {
@@ -5945,7 +5945,7 @@ const ai4Sessions = [
     "endTime": "12:15 PM",
     "location": "Venetian Ballroom D",
     "track": "AI Agents: Applications & Use Cases",
-    "description": "Getting a patient to show up for a dental consultation isn&#x27;t just a scheduling problem, it&#x27;s an enga...",
+    "description": "Getting a patient to show up for a dental consultation isn't just a scheduling problem, it's an enga...",
     "day": "Thursday"
   },
   {
@@ -5967,7 +5967,7 @@ const ai4Sessions = [
     "day": "Thursday"
   },
   {
-    "title": "Main Street Meets Machine: How AI Is Scaling Across America&#x27;s SMB Sector",
+    "title": "Main Street Meets Machine: How AI Is Scaling Across America's SMB Sector",
     "startTime": "11:55 AM",
     "endTime": "12:35 PM",
     "location": "Titian Ballroom 2304",
@@ -6089,7 +6089,7 @@ const ai4Sessions = [
     "endTime": "12:40 PM",
     "location": "Lando Ballroom 4204",
     "track": "World Models",
-    "description": "I will introduce about Unitree&#x27;s Product and future roadmap.",
+    "description": "I will introduce about Unitree's Product and future roadmap.",
     "day": "Thursday"
   },
   {
@@ -6188,7 +6188,7 @@ const ai4Sessions = [
     "endTime": "3:50 PM",
     "location": "Halls B&C",
     "track": "Agentic Live Demos",
-    "description": "Agentic AI has everybody talking\u2014come see what&#x27;s next.\nExperience AI in action at the Agentic Live D...",
+    "description": "Agentic AI has everybody talking\u2014come see what's next.\nExperience AI in action at the Agentic Live D...",
     "day": "Thursday"
   },
   {
@@ -6233,7 +6233,7 @@ const ai4Sessions = [
     "endTime": "2:30 PM",
     "location": "Titian Ballroom 2306",
     "track": "AI Agents (Technical)",
-    "description": "Building an AI agent is easier than building one people trust in production. In this talk, I&#x27;ll shar...",
+    "description": "Building an AI agent is easier than building one people trust in production. In this talk, I'll shar...",
     "day": "Thursday"
   },
   {
@@ -6269,7 +6269,7 @@ const ai4Sessions = [
     "endTime": "2:30 PM",
     "location": "Venetian Ballroom E",
     "track": "Generative AI: Applications & Use Cases",
-    "description": "AI is easy in demos. It&#x27;s much harder when trillions of dollars and regulators are involved.\n\nEvery ...",
+    "description": "AI is easy in demos. It's much harder when trillions of dollars and regulators are involved.\n\nEvery ...",
     "day": "Thursday"
   },
   {
@@ -6287,7 +6287,7 @@ const ai4Sessions = [
     "endTime": "2:50 PM",
     "location": "Delfino Ballroom 4103",
     "track": "Edge AI & Tiny ML (Technical)",
-    "description": "Enterprises want what generative AI can offer, but often their most valuable data can&#x27;t leave the bu...",
+    "description": "Enterprises want what generative AI can offer, but often their most valuable data can't leave the bu...",
     "day": "Thursday"
   },
   {
@@ -6435,7 +6435,7 @@ const ai4Sessions = [
     "day": "Thursday"
   },
   {
-    "title": "PRAXIST: The World&#x27;s First Autonomous Research System Delivering Validated, Enterprise-Ready Results",
+    "title": "PRAXIST: The World's First Autonomous Research System Delivering Validated, Enterprise-Ready Results",
     "startTime": "2:35 PM",
     "endTime": "2:55 PM",
     "location": "Titian Ballroom 2306",
@@ -6494,7 +6494,7 @@ const ai4Sessions = [
     "endTime": "3:20 PM",
     "location": "Venetian Ballroom E",
     "track": "AI Safety & Alignment",
-    "description": "You can&#x27;t successfully deploy AI agents if you can&#x27;t govern them. But the standard way of governing ...",
+    "description": "You can't successfully deploy AI agents if you can't govern them. But the standard way of governing ...",
     "day": "Thursday"
   },
   {
@@ -6539,7 +6539,7 @@ const ai4Sessions = [
     "endTime": "3:20 PM",
     "location": "Marcello Ballroom 4403",
     "track": "#AIFails",
-    "description": "In 2026, clients are comparing every vendor&#x27;s offerings to the capabilities of now-commonplace front...",
+    "description": "In 2026, clients are comparing every vendor's offerings to the capabilities of now-commonplace front...",
     "day": "Thursday"
   },
   {
@@ -6597,12 +6597,12 @@ const ai4Sessions = [
     "day": "Thursday"
   },
   {
-    "title": "Your Agent&#x27;s Output Is a Hypothesis",
+    "title": "Your Agent's Output Is a Hypothesis",
     "startTime": "3:00 PM",
     "endTime": "3:20 PM",
     "location": "Venetian Ballroom D",
     "track": "AI Agents: Applications & Use Cases",
-    "description": "Getting AI agents to act is mostly solved but trusting what they did isn&#x27;t. Agents fail in a way sof...",
+    "description": "Getting AI agents to act is mostly solved but trusting what they did isn't. Agents fail in a way sof...",
     "day": "Thursday"
   },
   {
@@ -6620,7 +6620,7 @@ const ai4Sessions = [
     "endTime": "3:35 PM",
     "location": "Halls B&C",
     "track": "Agentic Live Demos",
-    "description": "When something breaks in production, the real cost isn&#x27;t downtime \u2014 it&#x27;s the &quot;context tax&quot;: the endl...",
+    "description": "When something breaks in production, the real cost isn't downtime \u2014 it's the &quot;context tax&quot;: the endl...",
     "day": "Thursday"
   },
   {
@@ -6633,7 +6633,7 @@ const ai4Sessions = [
     "day": "Thursday"
   },
   {
-    "title": "AI Harm Is Everyone&#x27;s Business: Why Every Industry Needs to Understand Where Its Responsibility Begins",
+    "title": "AI Harm Is Everyone's Business: Why Every Industry Needs to Understand Where Its Responsibility Begins",
     "startTime": "3:25 PM",
     "endTime": "3:45 PM",
     "location": "Venetian Ballroom E",
@@ -6678,12 +6678,12 @@ const ai4Sessions = [
     "day": "Thursday"
   },
   {
-    "title": "The Room Was Built Without Us. Here&#x27;s How We Change That",
+    "title": "The Room Was Built Without Us. Here's How We Change That",
     "startTime": "3:25 PM",
     "endTime": "3:45 PM",
     "location": "Titian Ballroom 2304",
     "track": "Inclusive AI",
-    "description": "Women are building AI. They&#x27;re deploying it, scaling it, and governing it \u2014 and they&#x27;re still underr...",
+    "description": "Women are building AI. They're deploying it, scaling it, and governing it \u2014 and they're still underr...",
     "day": "Thursday"
   },
   {

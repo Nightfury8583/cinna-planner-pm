@@ -69,6 +69,7 @@ allTracks.forEach((track, i) => {
 function Ai4() {
     const [activeDay, setActiveDay] = useState('Tuesday');
     const [highlighted, setHighlighted] = useState(getHighlighted());
+    const [collapsed, setCollapsed] = useState({});
 
     useEffect(() => {
         saveHighlighted(highlighted);
@@ -84,6 +85,10 @@ function Ai4() {
             }
             return next;
         });
+    };
+
+    const toggleCollapse = (slotKey) => {
+        setCollapsed(prev => ({ ...prev, [slotKey]: !prev[slotKey] }));
     };
 
     // Filter sessions for active day
@@ -124,9 +129,11 @@ function Ai4() {
 
                     return (
                         <div key={slot} className={`ai4-time-slot ${hasSelection ? 'has-selection' : ''}`}>
-                            <div className="ai4-slot-header">
-                                🕐 {formatSlotLabel(slot)} ({sessions.length} session{sessions.length !== 1 ? 's' : ''})
+                            <div className="ai4-slot-header" onClick={() => toggleCollapse(activeDay + slot)}>
+                                <span>🕐 {formatSlotLabel(slot)} ({sessions.length} session{sessions.length !== 1 ? 's' : ''})</span>
+                                <span className="ai4-collapse-icon">{collapsed[activeDay + slot] ? '▶' : '▼'}</span>
                             </div>
+                            {!collapsed[activeDay + slot] && (
                             <div className="ai4-sessions-grid">
                                 {sessions.map((session, idx) => {
                                     const sessionId = getSessionId(session);
@@ -163,6 +170,7 @@ function Ai4() {
                                     );
                                 })}
                             </div>
+                            )}
                         </div>
                     );
                 })}
