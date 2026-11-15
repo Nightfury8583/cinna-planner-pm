@@ -1,0 +1,38 @@
+{
+  "ranks": {
+    "min": 1,
+    "max": 11,
+    "note": "Rank 1 earns the most EXP per component, rank 11 the least."
+  },
+  "maxComponentsPerBatch": 99,
+  "bonusTiers": [
+    {
+      "multiplier": 1.0,
+      "minBonus": 0
+    },
+    {
+      "multiplier": 1.25,
+      "minBonus": 51
+    },
+    {
+      "multiplier": 1.5,
+      "minBonus": 101
+    },
+    {
+      "multiplier": 1.75,
+      "minBonus": 201
+    },
+    {
+      "multiplier": 2.0,
+      "minBonus": 251
+    },
+    {
+      "multiplier": 3.0,
+      "minBonus": 501
+    }
+  ],
+  "chips": {
+    "credit": "credit-chip",
+    "incentive": "incentive-chip"
+  }
+}

@@ -1,0 +1,1083 @@
+{
+  "up-in-arms": {
+    "id": "up-in-arms",
+    "name": "Up in Arms",
+    "stock": [
+      {
+        "itemType": "weapon",
+        "itemId": "blazefire-saber",
+        "price": 2000,
+        "chapter": 4,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "edged-carbine",
+        "price": 4600,
+        "chapter": 5,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "gladius",
+        "price": 7100,
+        "chapter": 11,
+        "note": "Available after reaching The Earthworks"
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "vega-42s",
+        "price": 2000,
+        "chapter": 4,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "deneb-duellers",
+        "price": 3900,
+        "chapter": 5,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "wild-bear",
+        "price": 1800,
+        "chapter": 4,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "power-circle",
+        "price": 4500,
+        "chapter": 5,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "hawkeye",
+        "price": 4400,
+        "chapter": 5,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "ninurta",
+        "price": 2800,
+        "chapter": 4,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "binding-rod",
+        "price": 2500,
+        "chapter": 4,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "pearlwing-staff",
+        "price": 2300,
+        "chapter": 5,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "rod-of-thorns",
+        "price": 3000,
+        "chapter": 11,
+        "note": "Available after reaching The Earthworks"
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "bladed-lance",
+        "price": 4500,
+        "chapter": 11,
+        "note": "Available after reaching The Earthworks"
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "partisan",
+        "price": 6600,
+        "chapter": 11,
+        "note": "Available after reaching The Earthworks"
+      }
+    ]
+  },
+  "plautuss-workshop": {
+    "id": "plautuss-workshop",
+    "name": "Plautus's Workshop",
+    "stock": [
+      {
+        "itemType": "weapon",
+        "itemId": "axis-blade",
+        "price": 15000,
+        "chapter": 8,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "lifesaber",
+        "price": 20000,
+        "chapter": 10,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "lionheart",
+        "price": 28000,
+        "chapter": 12,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "spica-defenders",
+        "price": 14500,
+        "chapter": 11,
+        "note": "Available after reaching The Earthworks"
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "antares-deluxes",
+        "price": 22000,
+        "chapter": 13,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "procyons",
+        "price": 30000,
+        "chapter": 8,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "paladin",
+        "price": 20000,
+        "chapter": 8,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "rebel-heart",
+        "price": 11000,
+        "chapter": 13,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "umbra",
+        "price": 32600,
+        "chapter": 10,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "airwing",
+        "price": 10000,
+        "chapter": 8,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "otshirvani",
+        "price": 28200,
+        "chapter": 13,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "vidofnir",
+        "price": 16900,
+        "chapter": 11,
+        "note": "Available after reaching The Earthworks"
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "healers-staff",
+        "price": 19800,
+        "chapter": 10,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "mistilteinn",
+        "price": 11000,
+        "chapter": 12,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "belladonna-wand",
+        "price": 31200,
+        "chapter": 8,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "punisher",
+        "price": 31000,
+        "chapter": 13,
+        "note": null
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "pandoran-spear",
+        "price": 16200,
+        "chapter": 11,
+        "note": "Available after reaching The Earthworks"
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "gae-bolg",
+        "price": 13100,
+        "chapter": 8,
+        "note": null
+      }
+    ]
+  },
+  "gilgamesh-inc": {
+    "id": "gilgamesh-inc",
+    "name": "Gilgamesh, Inc.",
+    "stock": [
+      {
+        "itemType": "weapon",
+        "itemId": "organyx",
+        "price": 280000,
+        "chapter": 11,
+        "note": "Available after completing Mission 46"
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "hauteclaire",
+        "price": 20000,
+        "chapter": 11,
+        "note": "Available after completing Mission 46"
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "pleiades-hi-powers",
+        "price": 22000,
+        "chapter": 11,
+        "note": "Available after completing Mission 46"
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "aldebarans",
+        "price": 263000,
+        "chapter": 11,
+        "note": "Available after completing Mission 46"
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "rigels",
+        "price": 19000,
+        "chapter": 11,
+        "note": "Available after completing Mission 46"
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "sacrificial-circle",
+        "price": 210000,
+        "chapter": 11,
+        "note": "Available after completing Mission 46"
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "feymark",
+        "price": 25000,
+        "chapter": 11,
+        "note": "Available after completing Mission 46"
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "unsetting-sun",
+        "price": 21000,
+        "chapter": 11,
+        "note": "Available after completing Mission 46"
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "malphas",
+        "price": 198000,
+        "chapter": 11,
+        "note": "Available after completing Mission 46"
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "simurgh",
+        "price": 21200,
+        "chapter": 11,
+        "note": "Available after completing Mission 46"
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "alicanto",
+        "price": 18000,
+        "chapter": 11,
+        "note": "Available after completing Mission 46"
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "tigerclaw",
+        "price": 300000,
+        "chapter": 11,
+        "note": "Available after completing Mission 46"
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "heavenly-axis",
+        "price": 24000,
+        "chapter": 11,
+        "note": "Available after completing Mission 46"
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "shamanic-spear",
+        "price": 23000,
+        "chapter": 11,
+        "note": "Available after completing Mission 46"
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "dragoon-lance",
+        "price": 230000,
+        "chapter": 11,
+        "note": "Available after completing Mission 46"
+      },
+      {
+        "itemType": "weapon",
+        "itemId": "taming-pole",
+        "price": 27000,
+        "chapter": 11,
+        "note": "Available after completing Mission 46"
+      }
+    ]
+  },
+  "b-w-outfitters": {
+    "id": "b-w-outfitters",
+    "name": "B&W Outfitters",
+    "stock": [
+      {
+        "itemType": "accessory",
+        "itemId": "iron-bangle",
+        "price": 500,
+        "chapter": 2,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "silver-bangle",
+        "price": 800,
+        "chapter": 4,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "tungsten-bangle",
+        "price": 1500,
+        "chapter": 5,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "titanium-bangle",
+        "price": 3600,
+        "chapter": 9,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "gold-bangle",
+        "price": 9000,
+        "chapter": 10,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "mythril-bangle",
+        "price": 15000,
+        "chapter": 11,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "power-wristband",
+        "price": 1000,
+        "chapter": 3,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "brawlers-wristband",
+        "price": 3000,
+        "chapter": 9,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "warriors-wristband",
+        "price": 10000,
+        "chapter": 11,
+        "note": "Available after reaching The Earthworks"
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "magicians-mark",
+        "price": 1000,
+        "chapter": 3,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "shamans-mark",
+        "price": 3000,
+        "chapter": 9,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "sorcerers-mark",
+        "price": 10000,
+        "chapter": 11,
+        "note": "Available after reaching The Earthworks"
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "black-belt",
+        "price": 4500,
+        "chapter": 4,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "generals-belt",
+        "price": 12000,
+        "chapter": 10,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "rune-bracelet",
+        "price": 4500,
+        "chapter": 4,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "witchs-bracelet",
+        "price": 12000,
+        "chapter": 10,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "giants-glove",
+        "price": 3000,
+        "chapter": 11,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "glass-buckle",
+        "price": 3000,
+        "chapter": 11,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "metal-armband",
+        "price": 3000,
+        "chapter": 5,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "serenity-sachet",
+        "price": 3000,
+        "chapter": 5,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "glass-orb",
+        "price": 3000,
+        "chapter": 9,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "star-pendant",
+        "price": 3000,
+        "chapter": 7,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "pearl-necklace",
+        "price": 3000,
+        "chapter": 11,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "warding-talisman",
+        "price": 3000,
+        "chapter": 11,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "pain-dampener",
+        "price": 3000,
+        "chapter": 10,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "white-cape",
+        "price": 3000,
+        "chapter": 10,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "rainbow-anklet",
+        "price": 3000,
+        "chapter": 11,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "cherubs-crown",
+        "price": 3000,
+        "chapter": 11,
+        "note": "Available after reaching The Earthworks"
+      }
+    ]
+  },
+  "magical-moments": {
+    "id": "magical-moments",
+    "name": "Magical Moments",
+    "stock": [
+      {
+        "itemType": "accessory",
+        "itemId": "guardian-amulet",
+        "price": 5000,
+        "chapter": 8,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "auric-amulet",
+        "price": 5000,
+        "chapter": 5,
+        "note": "Available after Field Trial Range N"
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "watchmans-amulet",
+        "price": 5000,
+        "chapter": 5,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "heros-amulet",
+        "price": 5000,
+        "chapter": 10,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "saints-amulet",
+        "price": 5000,
+        "chapter": 10,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "zealots-amulet",
+        "price": 5000,
+        "chapter": 11,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "flamebane-brooch",
+        "price": 3000,
+        "chapter": 11,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "frostbane-brooch",
+        "price": 3000,
+        "chapter": 11,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "sparkbane-brooch",
+        "price": 3000,
+        "chapter": 11,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "aquabane-brooch",
+        "price": 3000,
+        "chapter": 11,
+        "note": null
+      }
+    ]
+  },
+  "moogleworks": {
+    "id": "moogleworks",
+    "name": "Moogleworks",
+    "stock": [
+      {
+        "itemType": "accessory",
+        "itemId": "whistlewind-scarf",
+        "price": 1000,
+        "chapter": 10,
+        "note": "Available after Cid Raines fight"
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "nimbletoe-boots",
+        "price": 6000,
+        "chapter": 11,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "collector-catalog",
+        "price": 100000,
+        "chapter": 10,
+        "note": "Available after Cid Raines fight"
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "speed-sash",
+        "price": 10000,
+        "chapter": 11,
+        "note": null
+      }
+    ]
+  },
+  "sanctum-labs": {
+    "id": "sanctum-labs",
+    "name": "Sanctum Labs",
+    "stock": [
+      {
+        "itemType": "accessory",
+        "itemId": "platinum-bangle",
+        "price": 48000,
+        "chapter": 12,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "royal-armlet",
+        "price": 200000,
+        "chapter": 12,
+        "note": null
+      },
+      {
+        "itemType": "accessory",
+        "itemId": "entite-ring",
+        "price": 120000,
+        "chapter": 12,
+        "note": null
+      }
+    ]
+  },
+  "creature-comforts": {
+    "id": "creature-comforts",
+    "name": "Creature Comforts",
+    "stock": [
+      {
+        "itemType": "component",
+        "itemId": "wicked-fang",
+        "price": 80,
+        "chapter": 5,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "thickened-hide",
+        "price": 80,
+        "chapter": 5,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "enigmatic-fluid",
+        "price": 80,
+        "chapter": 5,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "sturdy-bone",
+        "price": 80,
+        "chapter": 5,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "scaled-wing",
+        "price": 80,
+        "chapter": 5,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "fragrant-oil",
+        "price": 80,
+        "chapter": 8,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "barbed-tail",
+        "price": 80,
+        "chapter": 8,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "bestial-claw",
+        "price": 80,
+        "chapter": 8,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "vibrant-ooze",
+        "price": 80,
+        "chapter": 8,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "iron-shell",
+        "price": 80,
+        "chapter": 8,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "monstrous-fang",
+        "price": 150,
+        "chapter": 10,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "smooth-hide",
+        "price": 150,
+        "chapter": 10,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "mysterious-fluid",
+        "price": 150,
+        "chapter": 10,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "otherworldly-bone",
+        "price": 150,
+        "chapter": 10,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "abominable-wing",
+        "price": 150,
+        "chapter": 10,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "medicinal-oil",
+        "price": 150,
+        "chapter": 11,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "diabolic-tail",
+        "price": 150,
+        "chapter": 11,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "gargantuan-claw",
+        "price": 150,
+        "chapter": 11,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "transparent-ooze",
+        "price": 150,
+        "chapter": 11,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "armored-shell",
+        "price": 150,
+        "chapter": 11,
+        "note": null
+      }
+    ]
+  },
+  "the-motherlode": {
+    "id": "the-motherlode",
+    "name": "The Motherlode",
+    "stock": [
+      {
+        "itemType": "component",
+        "itemId": "millerite",
+        "price": 3000,
+        "chapter": 9,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "rhodochrosite",
+        "price": 8000,
+        "chapter": 9,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "cobaltite",
+        "price": 17000,
+        "chapter": 9,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "perovskite",
+        "price": 30000,
+        "chapter": 9,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "uraninite",
+        "price": 45000,
+        "chapter": 9,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "mnar-stone",
+        "price": 60000,
+        "chapter": 10,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "scarletite",
+        "price": 100000,
+        "chapter": 11,
+        "note": null
+      }
+    ]
+  },
+  "lenoras-garage": {
+    "id": "lenoras-garage",
+    "name": "Lenora's Garage",
+    "stock": [
+      {
+        "itemType": "component",
+        "itemId": "polymer-emulsion",
+        "price": 200,
+        "chapter": 4,
+        "note": "Available after Dreadnought fight"
+      },
+      {
+        "itemType": "component",
+        "itemId": "ferroelectric-film",
+        "price": 460,
+        "chapter": 4,
+        "note": "Available after Dreadnought fight"
+      },
+      {
+        "itemType": "component",
+        "itemId": "insulated-cabling",
+        "price": 280,
+        "chapter": 4,
+        "note": "Available after Dreadnought fight"
+      },
+      {
+        "itemType": "component",
+        "itemId": "ceramic-armor",
+        "price": 660,
+        "chapter": 7,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "passive-detector",
+        "price": 840,
+        "chapter": 7,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "liquid-crystal-lens",
+        "price": 320,
+        "chapter": 9,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "epicyclic-gear",
+        "price": 320,
+        "chapter": 9,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "radial-bearing",
+        "price": 320,
+        "chapter": 11,
+        "note": "Available after reaching The Earthworks"
+      },
+      {
+        "itemType": "component",
+        "itemId": "superconductor",
+        "price": 840,
+        "chapter": 11,
+        "note": "Available after reaching The Earthworks"
+      },
+      {
+        "itemType": "component",
+        "itemId": "bomb-fragment",
+        "price": 430,
+        "chapter": 7,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "fiber-optic-cable",
+        "price": 840,
+        "chapter": 11,
+        "note": "Available after reaching The Earthworks"
+      },
+      {
+        "itemType": "component",
+        "itemId": "ring-joint",
+        "price": 840,
+        "chapter": 9,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "crankshaft",
+        "price": 840,
+        "chapter": 9,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "perfect-conductor",
+        "price": 1600,
+        "chapter": 11,
+        "note": "Available after reaching The Earthworks"
+      },
+      {
+        "itemType": "component",
+        "itemId": "piezoelectric-element",
+        "price": 840,
+        "chapter": 11,
+        "note": "Available after reaching The Earthworks"
+      },
+      {
+        "itemType": "component",
+        "itemId": "turbojet",
+        "price": 840,
+        "chapter": 7,
+        "note": null
+      },
+      {
+        "itemType": "component",
+        "itemId": "paraffin-oil",
+        "price": 320,
+        "chapter": 4,
+        "note": "Available after Dreadnought fight"
+      },
+      {
+        "itemType": "component",
+        "itemId": "amplifier",
+        "price": 520,
+        "chapter": 11,
+        "note": "Available after reaching The Earthworks"
+      },
+      {
+        "itemType": "component",
+        "itemId": "silicone-oil",
+        "price": 660,
+        "chapter": 11,
+        "note": "Available after reaching The Earthworks"
+      }
+    ]
+  },
+  "r-d-depot": {
+    "id": "r-d-depot",
+    "name": "R&D Depot",
+    "stock": [
+      {
+        "itemType": "component",
+        "itemId": "green-needle",
+        "price": 7000,
+        "chapter": 11,
+        "note": "Available after completing Mission 07"
+      },
+      {
+        "itemType": "component",
+        "itemId": "particle-accelerator",
+        "price": 10000,
+        "chapter": 11,
+        "note": "Available after completing Mission 07"
+      },
+      {
+        "itemType": "component",
+        "itemId": "ultracompact-reactor",
+        "price": 50000,
+        "chapter": 11,
+        "note": "Available after completing Mission 07"
+      },
+      {
+        "itemType": "component",
+        "itemId": "adamantite",
+        "price": 220000,
+        "chapter": 11,
+        "note": "Available after completing Mission 07"
+      },
+      {
+        "itemType": "component",
+        "itemId": "dark-matter",
+        "price": 840000,
+        "chapter": 11,
+        "note": "Available after completing Mission 07"
+      },
+      {
+        "itemType": "component",
+        "itemId": "trapezohedron",
+        "price": 2000000,
+        "chapter": 11,
+        "note": "Available after completing Mission 07"
+      }
+    ]
+  }
+}

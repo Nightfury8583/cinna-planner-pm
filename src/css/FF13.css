@@ -1,0 +1,273 @@
+.ffContainer {
+    width: 100%;
+    min-height: calc(100% - 47px);
+    background: linear-gradient(to right, #000000, #26004d, #000000);
+    color: #eee;
+    display: flex;
+    justify-content: center;
+    padding: 16px 12px 40px;
+    box-sizing: border-box;
+    text-align: left;
+}
+
+.ffPage {
+    width: 100%;
+    max-width: 760px;
+}
+
+.ffTitle {
+    margin: 4px 0 16px;
+    text-align: center;
+}
+
+.ffCard {
+    background: rgba(255, 255, 255, 0.07);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 8px;
+    padding: 14px 16px;
+    margin-bottom: 14px;
+}
+
+.ffCardTitle {
+    margin: 0 0 4px;
+    font-size: 20px;
+    background-color: #b85c00; /* dark orange, overrides the grey from the global h2 rule */
+    padding: 3px 14px;
+}
+
+/* 1px black outline around the letters (works in every browser, unlike -webkit-text-stroke). */
+.ffCardTitle,
+.ffRadios label {
+    text-shadow:
+        -1px -1px 0 #000, 0 -1px 0 #000, 1px -1px 0 #000,
+        -1px 0 0 #000, 1px 0 0 #000,
+        -1px 1px 0 #000, 0 1px 0 #000, 1px 1px 0 #000;
+}
+
+.ffArrow {
+    color: #b9a4ff;
+}
+
+.ffRow {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    align-items: flex-end;
+    margin-top: 10px;
+}
+
+.ffField {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 240px;
+    min-width: 0;
+}
+
+.ffSmall {
+    flex: 0 1 170px;
+}
+
+.ffLabel {
+    display: block;
+    font-size: 13px;
+    color: #c9c9d6;
+    margin-bottom: 4px;
+}
+
+.ffCombo {
+    position: relative;
+}
+
+.ffComboInput {
+    padding-right: 34px;
+}
+
+.ffArrowButton {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 32px;
+    height: 36px;
+    border: none;
+    background: transparent;
+    color: #555;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.ffList {
+    position: absolute;
+    z-index: 20;
+    left: 0;
+    right: 0;
+    top: 100%;
+    margin: 2px 0 0;
+    padding: 0;
+    list-style: none;
+    max-height: 300px;
+    overflow-y: auto;
+    background: #fff;
+    color: #222;
+    border: 1px solid #999;
+    border-radius: 5px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.45);
+}
+
+.ffOption {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 6px 10px;
+    cursor: pointer;
+}
+
+.ffHighlight {
+    background: #e7defd;
+}
+
+.ffChosen {
+    font-weight: bold;
+}
+
+.ffOptionDetail {
+    color: #777;
+    font-size: 13px;
+    text-align: right;
+}
+
+.ffNoMatch {
+    padding: 8px 10px;
+    color: #777;
+}
+
+.ffInput {
+    font-size: 16px;
+    height: 36px;
+    padding: 0 8px;
+    border-radius: 5px;
+    border: 2px solid #ccc;
+    background-color: white;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.ffInput:disabled {
+    background-color: #ddd;
+}
+
+.ffRadios {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 18px;
+    margin-top: 12px;
+}
+
+.ffMuted {
+    color: #a9a9bb;
+    font-size: 14px;
+}
+
+.ffLines {
+    margin: 14px 0 0;
+}
+
+.ffLine {
+    display: flex;
+    gap: 12px;
+    padding: 6px 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.ffLine dt {
+    flex: 0 0 120px;
+    color: #c9c9d6;
+}
+
+.ffLine dd {
+    flex: 1;
+    margin: 0;
+}
+
+.ffDetail {
+    color: #a9a9bb;
+    font-size: 14px;
+    margin-top: 2px;
+}
+
+.ffWarning {
+    margin: 10px 0 0;
+    padding: 8px 10px;
+    border-radius: 5px;
+    background: rgba(255, 190, 70, 0.14);
+    border: 1px solid rgba(255, 190, 70, 0.5);
+    font-size: 14px;
+}
+
+.ffFootnote {
+    text-align: center;
+}
+
+@media (max-width: 520px) {
+    .ffLine {
+        flex-direction: column;
+        gap: 2px;
+    }
+
+    .ffLine dt {
+        flex: none;
+    }
+}
+
+/* Slide switch */
+.ffSwitch {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 12px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.ffSwitchInput {
+    position: absolute;
+    opacity: 0;
+    width: 1px;
+    height: 1px;
+}
+
+.ffSwitchTrack {
+    position: relative;
+    flex: 0 0 auto;
+    width: 52px;
+    height: 30px;
+    border-radius: 15px;
+    background: #e3e3e6;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.2s;
+}
+
+.ffSwitchKnob {
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+    transition: transform 0.2s;
+}
+
+.ffSwitchInput:checked + .ffSwitchTrack {
+    background: #2ecc40;
+}
+
+.ffSwitchInput:checked + .ffSwitchTrack .ffSwitchKnob {
+    transform: translateX(22px);
+}
+
+.ffSwitchInput:focus-visible + .ffSwitchTrack {
+    outline: 2px solid #b9a4ff;
+    outline-offset: 2px;
+}

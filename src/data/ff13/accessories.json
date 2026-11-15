@@ -1,0 +1,5852 @@
+{
+  "iron-bangle": {
+    "id": "iron-bangle",
+    "kind": "accessory",
+    "name": "Iron Bangle",
+    "baseName": "Iron Bangle",
+    "rank": 1,
+    "ability": "HP: +X",
+    "synthesizes": "High HP: Power Surge",
+    "chapter": 1,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 100,
+    "expPerLevel": 28,
+    "masterExp": 780,
+    "masterExpFromStart": 780,
+    "bonus": {
+      "atAnchor": 50,
+      "perLevel": 14
+    },
+    "sellValue": {
+      "atAnchor": 250,
+      "perLevel": 5
+    },
+    "buyPrice": 500,
+    "upgradesTo": {
+      "item": "silver-bangle",
+      "catalyst": "millerite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "transformer",
+        "type": "component",
+        "qty": 3
+      },
+      {
+        "id": "polymer-emulsion",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases maximum HP by X.",
+    "maxBonus": 120,
+    "ultimateId": "wurtzite-bangle"
+  },
+  "silver-bangle": {
+    "id": "silver-bangle",
+    "kind": "accessory",
+    "name": "Silver Bangle",
+    "baseName": "Silver Bangle",
+    "rank": 2,
+    "ability": "HP: +X",
+    "synthesizes": "Physical Wall",
+    "chapter": 3,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 200,
+    "expPerLevel": 56,
+    "masterExp": 1560,
+    "masterExpFromStart": 1560,
+    "bonus": {
+      "atAnchor": 100,
+      "perLevel": 16
+    },
+    "sellValue": {
+      "atAnchor": 400,
+      "perLevel": 21
+    },
+    "buyPrice": 800,
+    "upgradesTo": {
+      "item": "tungsten-bangle",
+      "catalyst": "rhodochrosite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [
+      {
+        "item": "iron-bangle",
+        "catalyst": "millerite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "transformer",
+        "type": "component",
+        "qty": 4
+      },
+      {
+        "id": "polymer-emulsion",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases maximum HP by X.",
+    "maxBonus": 180,
+    "ultimateId": "wurtzite-bangle"
+  },
+  "tungsten-bangle": {
+    "id": "tungsten-bangle",
+    "kind": "accessory",
+    "name": "Tungsten Bangle",
+    "baseName": "Tungsten Bangle",
+    "rank": 3,
+    "ability": "HP: +X",
+    "synthesizes": "Low HP: Power Surge",
+    "chapter": 5,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 11,
+    "expBase": 330,
+    "expPerLevel": 99,
+    "masterExp": 7755,
+    "masterExpFromStart": 7755,
+    "bonus": {
+      "atAnchor": 150,
+      "perLevel": 8
+    },
+    "sellValue": {
+      "atAnchor": 750,
+      "perLevel": 52
+    },
+    "buyPrice": 1500,
+    "upgradesTo": {
+      "item": "titanium-bangle",
+      "catalyst": "cobaltite",
+      "startLevel": 9
+    },
+    "upgradedFrom": [
+      {
+        "item": "silver-bangle",
+        "catalyst": "rhodochrosite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "amplifier",
+        "type": "component",
+        "qty": 3
+      },
+      {
+        "id": "ferroelectric-film",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases maximum HP by X.",
+    "maxBonus": 230,
+    "ultimateId": "wurtzite-bangle"
+  },
+  "titanium-bangle": {
+    "id": "titanium-bangle",
+    "kind": "accessory",
+    "name": "Titanium Bangle",
+    "baseName": "Titanium Bangle",
+    "rank": 4,
+    "ability": "HP: +X",
+    "synthesizes": "Damage Wall",
+    "chapter": 5,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 11,
+    "expBase": 440,
+    "expPerLevel": 132,
+    "masterExp": 10340,
+    "masterExpFromStart": 10340,
+    "bonus": {
+      "atAnchor": 200,
+      "perLevel": 8
+    },
+    "sellValue": {
+      "atAnchor": 1800,
+      "perLevel": 93
+    },
+    "buyPrice": 3600,
+    "upgradesTo": {
+      "item": "gold-bangle",
+      "catalyst": "perovskite",
+      "startLevel": 9
+    },
+    "upgradedFrom": [
+      {
+        "item": "tungsten-bangle",
+        "catalyst": "cobaltite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "amplifier",
+        "type": "component",
+        "qty": 6
+      },
+      {
+        "id": "ferroelectric-film",
+        "type": "component",
+        "qty": 2
+      }
+    ],
+    "description": "Increases maximum HP by X.",
+    "maxBonus": 280,
+    "ultimateId": "wurtzite-bangle"
+  },
+  "gold-bangle": {
+    "id": "gold-bangle",
+    "kind": "accessory",
+    "name": "Gold Bangle",
+    "baseName": "Gold Bangle",
+    "rank": 5,
+    "ability": "HP: +X",
+    "synthesizes": "Magic Wall",
+    "chapter": 7,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 11,
+    "expBase": 550,
+    "expPerLevel": 165,
+    "masterExp": 12925,
+    "masterExpFromStart": 12925,
+    "bonus": {
+      "atAnchor": 250,
+      "perLevel": 10
+    },
+    "sellValue": {
+      "atAnchor": 4500,
+      "perLevel": 146
+    },
+    "buyPrice": 9000,
+    "upgradesTo": {
+      "item": "mythril-bangle",
+      "catalyst": "uraninite",
+      "startLevel": 9
+    },
+    "upgradedFrom": [
+      {
+        "item": "titanium-bangle",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "amplifier",
+        "type": "component",
+        "qty": 9
+      },
+      {
+        "id": "ferroelectric-film",
+        "type": "component",
+        "qty": 4
+      }
+    ],
+    "description": "Increases maximum HP by X.",
+    "maxBonus": 350,
+    "ultimateId": "wurtzite-bangle"
+  },
+  "mythril-bangle": {
+    "id": "mythril-bangle",
+    "kind": "accessory",
+    "name": "Mythril Bangle",
+    "baseName": "Mythril Bangle",
+    "rank": 6,
+    "ability": "HP: +X",
+    "synthesizes": "High HP: Power Surge",
+    "chapter": 7,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 16,
+    "expBase": 720,
+    "expPerLevel": 228,
+    "masterExp": 34740,
+    "masterExpFromStart": 34740,
+    "bonus": {
+      "atAnchor": 300,
+      "perLevel": 10
+    },
+    "sellValue": {
+      "atAnchor": 7500,
+      "perLevel": 225
+    },
+    "buyPrice": 15000,
+    "upgradesTo": {
+      "item": "platinum-bangle",
+      "catalyst": "mnar-stone",
+      "startLevel": 13
+    },
+    "upgradedFrom": [
+      {
+        "item": "gold-bangle",
+        "catalyst": "uraninite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "carburetor",
+        "type": "component",
+        "qty": 12
+      },
+      {
+        "id": "superconductor",
+        "type": "component",
+        "qty": 6
+      }
+    ],
+    "description": "Increases maximum HP by X.",
+    "maxBonus": 450,
+    "ultimateId": "wurtzite-bangle"
+  },
+  "platinum-bangle": {
+    "id": "platinum-bangle",
+    "kind": "accessory",
+    "name": "Platinum Bangle",
+    "baseName": "Platinum Bangle",
+    "rank": 7,
+    "ability": "HP: +X",
+    "synthesizes": "Physical Wall",
+    "chapter": 10,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 21,
+    "expBase": 910,
+    "expPerLevel": 301,
+    "masterExp": 75390,
+    "masterExpFromStart": 75390,
+    "bonus": {
+      "atAnchor": 400,
+      "perLevel": 10
+    },
+    "sellValue": {
+      "atAnchor": 24000,
+      "perLevel": 325
+    },
+    "buyPrice": 48000,
+    "upgradesTo": {
+      "item": "diamond-bangle",
+      "catalyst": "scarletite",
+      "startLevel": 18
+    },
+    "upgradedFrom": [
+      {
+        "item": "mythril-bangle",
+        "catalyst": "mnar-stone"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "carburetor",
+        "type": "component",
+        "qty": 19
+      },
+      {
+        "id": "superconductor",
+        "type": "component",
+        "qty": 15
+      }
+    ],
+    "description": "Increases maximum HP by X.",
+    "maxBonus": 600,
+    "ultimateId": "wurtzite-bangle"
+  },
+  "diamond-bangle": {
+    "id": "diamond-bangle",
+    "kind": "accessory",
+    "name": "Diamond Bangle",
+    "baseName": "Diamond Bangle",
+    "rank": 8,
+    "ability": "HP: +X",
+    "synthesizes": "Magic Wall",
+    "chapter": 10,
+    "startLevel": 18,
+    "anchorLevel": 1,
+    "maxLevel": 26,
+    "expBase": 1120,
+    "expPerLevel": 384,
+    "masterExp": 143200,
+    "masterExpFromStart": 71936,
+    "bonus": {
+      "atAnchor": 500,
+      "perLevel": 20
+    },
+    "sellValue": {
+      "atAnchor": 36000,
+      "perLevel": 450
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "adamant-bangle",
+      "catalyst": "adamantite",
+      "startLevel": 23
+    },
+    "upgradedFrom": [
+      {
+        "item": "platinum-bangle",
+        "catalyst": "scarletite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "carburetor",
+        "type": "component",
+        "qty": 29
+      },
+      {
+        "id": "superconductor",
+        "type": "component",
+        "qty": 20
+      },
+      {
+        "id": "piezoelectric-element",
+        "type": "component",
+        "qty": 9
+      }
+    ],
+    "description": "Increases maximum HP by X.",
+    "maxBonus": 1000,
+    "ultimateId": "wurtzite-bangle"
+  },
+  "adamant-bangle": {
+    "id": "adamant-bangle",
+    "kind": "accessory",
+    "name": "Adamant Bangle",
+    "baseName": "Adamant Bangle",
+    "rank": 9,
+    "ability": "HP: +X",
+    "synthesizes": "Damage Wall",
+    "chapter": 11,
+    "startLevel": 23,
+    "anchorLevel": 1,
+    "maxLevel": 36,
+    "expBase": 1350,
+    "expPerLevel": 477,
+    "masterExp": 331065,
+    "masterExpFromStart": 191178,
+    "bonus": {
+      "atAnchor": 800,
+      "perLevel": 20
+    },
+    "sellValue": {
+      "atAnchor": 50000,
+      "perLevel": 632
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "wurtzite-bangle",
+      "catalyst": "dark-matter",
+      "startLevel": 32
+    },
+    "upgradedFrom": [
+      {
+        "item": "diamond-bangle",
+        "catalyst": "adamantite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "supercharger",
+        "type": "component",
+        "qty": 13
+      },
+      {
+        "id": "perfect-conductor",
+        "type": "component",
+        "qty": 8
+      },
+      {
+        "id": "crystal-oscillator",
+        "type": "component",
+        "qty": 3
+      },
+      {
+        "id": "particle-accelerator",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases maximum HP by X.",
+    "maxBonus": 1500,
+    "ultimateId": "wurtzite-bangle"
+  },
+  "wurtzite-bangle": {
+    "id": "wurtzite-bangle",
+    "kind": "accessory",
+    "name": "Wurtzite Bangle",
+    "baseName": "Wurtzite Bangle",
+    "rank": 10,
+    "ability": "HP: +X",
+    "synthesizes": null,
+    "chapter": 11,
+    "startLevel": 32,
+    "anchorLevel": 32,
+    "maxLevel": 51,
+    "expBase": 1600,
+    "expPerLevel": 580,
+    "masterExp": 790500,
+    "masterExpFromStart": 471200,
+    "bonus": {
+      "atAnchor": 2430,
+      "perLevel": 30
+    },
+    "sellValue": {
+      "atAnchor": 177838,
+      "perLevel": 898
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "adamant-bangle",
+        "catalyst": "dark-matter"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "supercharger",
+        "type": "component",
+        "qty": 20
+      },
+      {
+        "id": "perfect-conductor",
+        "type": "component",
+        "qty": 14
+      },
+      {
+        "id": "crystal-oscillator",
+        "type": "component",
+        "qty": 5
+      },
+      {
+        "id": "ultracompact-reactor",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases maximum HP by X.",
+    "maxBonus": 3000,
+    "ultimateId": "wurtzite-bangle"
+  },
+  "power-wristband": {
+    "id": "power-wristband",
+    "kind": "accessory",
+    "name": "Power Wristband",
+    "baseName": "Power Wristband",
+    "rank": 2,
+    "ability": "Strength: +X",
+    "synthesizes": "Physical Wall",
+    "chapter": 2,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 520,
+    "expPerLevel": 212,
+    "masterExp": 4720,
+    "masterExpFromStart": 4720,
+    "bonus": {
+      "atAnchor": 20,
+      "perLevel": 8
+    },
+    "sellValue": {
+      "atAnchor": 500,
+      "perLevel": 21
+    },
+    "buyPrice": 1000,
+    "upgradesTo": {
+      "item": "brawlers-wristband",
+      "catalyst": "cobaltite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "transformer",
+        "type": "component",
+        "qty": 5
+      },
+      {
+        "id": "ferroelectric-film",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Strength by X.",
+    "maxBonus": 60,
+    "ultimateId": "kaiser-knuckles"
+  },
+  "brawlers-wristband": {
+    "id": "brawlers-wristband",
+    "kind": "accessory",
+    "name": "Brawler's Wristband",
+    "baseName": "Brawler's Wristband",
+    "rank": 4,
+    "ability": "Strength: +X",
+    "synthesizes": "Physical Wall",
+    "chapter": 4,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 11,
+    "expBase": 1040,
+    "expPerLevel": 424,
+    "masterExp": 29480,
+    "masterExpFromStart": 29480,
+    "bonus": {
+      "atAnchor": 50,
+      "perLevel": 7
+    },
+    "sellValue": {
+      "atAnchor": 1500,
+      "perLevel": 93
+    },
+    "buyPrice": 3000,
+    "upgradesTo": {
+      "item": "warriors-wristband",
+      "catalyst": "uraninite",
+      "startLevel": 8
+    },
+    "upgradedFrom": [
+      {
+        "item": "power-wristband",
+        "catalyst": "cobaltite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "amplifier",
+        "type": "component",
+        "qty": 9
+      },
+      {
+        "id": "dawnlight-dew",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Strength by X.",
+    "maxBonus": 120,
+    "ultimateId": "kaiser-knuckles"
+  },
+  "warriors-wristband": {
+    "id": "warriors-wristband",
+    "kind": "accessory",
+    "name": "Warrior's Wristband",
+    "baseName": "Warrior's Wristband",
+    "rank": 6,
+    "ability": "Strength: +X",
+    "synthesizes": "Physical Wall",
+    "chapter": 7,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 11,
+    "expBase": 1560,
+    "expPerLevel": 636,
+    "masterExp": 44220,
+    "masterExpFromStart": 44220,
+    "bonus": {
+      "atAnchor": 100,
+      "perLevel": 8
+    },
+    "sellValue": {
+      "atAnchor": 5000,
+      "perLevel": 210
+    },
+    "buyPrice": 10000,
+    "upgradesTo": {
+      "item": "power-glove",
+      "catalyst": "scarletite",
+      "startLevel": 9
+    },
+    "upgradedFrom": [
+      {
+        "item": "brawlers-wristband",
+        "catalyst": "uraninite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "synthetic-muscle",
+        "type": "component",
+        "qty": 12
+      },
+      {
+        "id": "paraffin-oil",
+        "type": "component",
+        "qty": 7
+      },
+      {
+        "id": "titanium-tube",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Strength by X.",
+    "maxBonus": 180,
+    "ultimateId": "kaiser-knuckles"
+  },
+  "power-glove": {
+    "id": "power-glove",
+    "kind": "accessory",
+    "name": "Power Glove",
+    "baseName": "Power Glove",
+    "rank": 8,
+    "ability": "Strength: +X",
+    "synthesizes": "Physical Wall",
+    "chapter": 9,
+    "startLevel": 9,
+    "anchorLevel": 1,
+    "maxLevel": 11,
+    "expBase": 2080,
+    "expPerLevel": 848,
+    "masterExp": 58960,
+    "masterExpFromStart": 18576,
+    "bonus": {
+      "atAnchor": 150,
+      "perLevel": 10
+    },
+    "sellValue": {
+      "atAnchor": 13500,
+      "perLevel": 375
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "kaiser-knuckles",
+      "catalyst": "dark-matter",
+      "startLevel": 9
+    },
+    "upgradedFrom": [
+      {
+        "item": "warriors-wristband",
+        "catalyst": "scarletite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "synthetic-muscle",
+        "type": "component",
+        "qty": 17
+      },
+      {
+        "id": "paraffin-oil",
+        "type": "component",
+        "qty": 9
+      },
+      {
+        "id": "active-detector",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Strength by X.",
+    "maxBonus": 250,
+    "ultimateId": "kaiser-knuckles"
+  },
+  "kaiser-knuckles": {
+    "id": "kaiser-knuckles",
+    "kind": "accessory",
+    "name": "Kaiser Knuckles",
+    "baseName": "Kaiser Knuckles",
+    "rank": 10,
+    "ability": "Strength: +X",
+    "synthesizes": "Ethereal Mantle",
+    "chapter": 11,
+    "startLevel": 9,
+    "anchorLevel": 9,
+    "maxLevel": 11,
+    "expBase": 2600,
+    "expPerLevel": 1060,
+    "masterExp": 73700,
+    "masterExpFromStart": 23220,
+    "bonus": {
+      "atAnchor": 280,
+      "perLevel": 10
+    },
+    "sellValue": {
+      "atAnchor": 36180,
+      "perLevel": 585
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "power-glove",
+        "catalyst": "dark-matter"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "dusklight-dew",
+        "type": "component",
+        "qty": 19
+      },
+      {
+        "id": "white-mycelium",
+        "type": "component",
+        "qty": 14
+      },
+      {
+        "id": "silicone-oil",
+        "type": "component",
+        "qty": 8
+      }
+    ],
+    "description": "Increases Strength by X.",
+    "maxBonus": 300,
+    "ultimateId": "kaiser-knuckles"
+  },
+  "magicians-mark": {
+    "id": "magicians-mark",
+    "kind": "accessory",
+    "name": "Magician's Mark",
+    "baseName": "Magician's Mark",
+    "rank": 2,
+    "ability": "Magic: +X",
+    "synthesizes": "Magic Wall",
+    "chapter": 3,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 520,
+    "expPerLevel": 212,
+    "masterExp": 4720,
+    "masterExpFromStart": 4720,
+    "bonus": {
+      "atAnchor": 20,
+      "perLevel": 8
+    },
+    "sellValue": {
+      "atAnchor": 500,
+      "perLevel": 21
+    },
+    "buyPrice": 1000,
+    "upgradesTo": {
+      "item": "shamans-mark",
+      "catalyst": "cobaltite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "transformer",
+        "type": "component",
+        "qty": 5
+      },
+      {
+        "id": "ferroelectric-film",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Magic by X.",
+    "maxBonus": 60,
+    "ultimateId": "magistral-crest"
+  },
+  "shamans-mark": {
+    "id": "shamans-mark",
+    "kind": "accessory",
+    "name": "Shaman's Mark",
+    "baseName": "Shaman's Mark",
+    "rank": 4,
+    "ability": "Magic: +X",
+    "synthesizes": "Magic Wall",
+    "chapter": 4,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 11,
+    "expBase": 1040,
+    "expPerLevel": 424,
+    "masterExp": 29480,
+    "masterExpFromStart": 29480,
+    "bonus": {
+      "atAnchor": 50,
+      "perLevel": 7
+    },
+    "sellValue": {
+      "atAnchor": 1500,
+      "perLevel": 93
+    },
+    "buyPrice": 3000,
+    "upgradesTo": {
+      "item": "sorcerers-mark",
+      "catalyst": "uraninite",
+      "startLevel": 8
+    },
+    "upgradedFrom": [
+      {
+        "item": "magicians-mark",
+        "catalyst": "cobaltite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "amplifier",
+        "type": "component",
+        "qty": 9
+      },
+      {
+        "id": "dawnlight-dew",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Magic by X.",
+    "maxBonus": 120,
+    "ultimateId": "magistral-crest"
+  },
+  "sorcerers-mark": {
+    "id": "sorcerers-mark",
+    "kind": "accessory",
+    "name": "Sorcerer's Mark",
+    "baseName": "Sorcerer's Mark",
+    "rank": 6,
+    "ability": "Magic: +X",
+    "synthesizes": "Magic Wall",
+    "chapter": 7,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 11,
+    "expBase": 1560,
+    "expPerLevel": 636,
+    "masterExp": 44220,
+    "masterExpFromStart": 44220,
+    "bonus": {
+      "atAnchor": 100,
+      "perLevel": 8
+    },
+    "sellValue": {
+      "atAnchor": 5000,
+      "perLevel": 210
+    },
+    "buyPrice": 10000,
+    "upgradesTo": {
+      "item": "weirding-glyph",
+      "catalyst": "scarletite",
+      "startLevel": 9
+    },
+    "upgradedFrom": [
+      {
+        "item": "shamans-mark",
+        "catalyst": "uraninite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "passive-detector",
+        "type": "component",
+        "qty": 12
+      },
+      {
+        "id": "piezoelectric-element",
+        "type": "component",
+        "qty": 7
+      },
+      {
+        "id": "titanium-tube",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Magic by X.",
+    "maxBonus": 180,
+    "ultimateId": "magistral-crest"
+  },
+  "weirding-glyph": {
+    "id": "weirding-glyph",
+    "kind": "accessory",
+    "name": "Weirding Glyph",
+    "baseName": "Weirding Glyph",
+    "rank": 8,
+    "ability": "Magic: +X",
+    "synthesizes": "Magic Wall",
+    "chapter": 9,
+    "startLevel": 9,
+    "anchorLevel": 1,
+    "maxLevel": 11,
+    "expBase": 2080,
+    "expPerLevel": 848,
+    "masterExp": 58960,
+    "masterExpFromStart": 18576,
+    "bonus": {
+      "atAnchor": 150,
+      "perLevel": 10
+    },
+    "sellValue": {
+      "atAnchor": 13500,
+      "perLevel": 375
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "magistral-crest",
+      "catalyst": "dark-matter",
+      "startLevel": 9
+    },
+    "upgradedFrom": [
+      {
+        "item": "sorcerers-mark",
+        "catalyst": "scarletite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "turboprop",
+        "type": "component",
+        "qty": 17
+      },
+      {
+        "id": "piezoelectric-element",
+        "type": "component",
+        "qty": 9
+      },
+      {
+        "id": "active-detector",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Magic by X.",
+    "maxBonus": 250,
+    "ultimateId": "magistral-crest"
+  },
+  "magistral-crest": {
+    "id": "magistral-crest",
+    "kind": "accessory",
+    "name": "Magistral Crest",
+    "baseName": "Magistral Crest",
+    "rank": 10,
+    "ability": "Magic: +X",
+    "synthesizes": "Magic Damper",
+    "chapter": 11,
+    "startLevel": 9,
+    "anchorLevel": 9,
+    "maxLevel": 11,
+    "expBase": 2600,
+    "expPerLevel": 1060,
+    "masterExp": 73700,
+    "masterExpFromStart": 23220,
+    "bonus": {
+      "atAnchor": 280,
+      "perLevel": 10
+    },
+    "sellValue": {
+      "atAnchor": 36180,
+      "perLevel": 585
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "weirding-glyph",
+        "catalyst": "dark-matter"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "dusklight-dew",
+        "type": "component",
+        "qty": 19
+      },
+      {
+        "id": "white-mycelium",
+        "type": "component",
+        "qty": 14
+      },
+      {
+        "id": "crystal-oscillator",
+        "type": "component",
+        "qty": 8
+      }
+    ],
+    "description": "Increases Magic by X.",
+    "maxBonus": 300,
+    "ultimateId": "magistral-crest"
+  },
+  "black-belt": {
+    "id": "black-belt",
+    "kind": "accessory",
+    "name": "Black Belt",
+    "baseName": "Black Belt",
+    "rank": 3,
+    "ability": "Resist Physical: +X%",
+    "synthesizes": "Physical Wall",
+    "chapter": 4,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 480,
+    "expPerLevel": 198,
+    "masterExp": 4380,
+    "masterExpFromStart": 4380,
+    "bonus": {
+      "atAnchor": 10,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 2250,
+      "perLevel": 49
+    },
+    "buyPrice": 4500,
+    "upgradesTo": {
+      "item": "generals-belt",
+      "catalyst": "uraninite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "thickened-hide",
+        "type": "component",
+        "qty": 9
+      },
+      {
+        "id": "credit-chip",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases physical resistance by X%.",
+    "maxBonus": 20,
+    "ultimateId": "champions-belt"
+  },
+  "generals-belt": {
+    "id": "generals-belt",
+    "kind": "accessory",
+    "name": "General's Belt",
+    "baseName": "General's Belt",
+    "rank": 6,
+    "ability": "Resist Physical: +X%",
+    "synthesizes": "Physical Wall",
+    "chapter": 7,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 11,
+    "expBase": 960,
+    "expPerLevel": 396,
+    "masterExp": 27420,
+    "masterExpFromStart": 27420,
+    "bonus": {
+      "atAnchor": 15,
+      "perLevel": 1
+    },
+    "sellValue": {
+      "atAnchor": 6000,
+      "perLevel": 210
+    },
+    "buyPrice": 12000,
+    "upgradesTo": {
+      "item": "champions-belt",
+      "catalyst": "adamantite",
+      "startLevel": 8
+    },
+    "upgradedFrom": [
+      {
+        "item": "black-belt",
+        "catalyst": "uraninite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "smooth-hide",
+        "type": "component",
+        "qty": 9
+      },
+      {
+        "id": "incentive-chip",
+        "type": "component",
+        "qty": 1
+      },
+      {
+        "id": "rhodochrosite",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases physical resistance by X%.",
+    "maxBonus": 25,
+    "ultimateId": "champions-belt"
+  },
+  "champions-belt": {
+    "id": "champions-belt",
+    "kind": "accessory",
+    "name": "Champion's Belt",
+    "baseName": "Champion's Belt",
+    "rank": 9,
+    "ability": "Resist Physical: +X%",
+    "synthesizes": "Physical Wall",
+    "chapter": 11,
+    "startLevel": 8,
+    "anchorLevel": 8,
+    "maxLevel": 11,
+    "expBase": 1440,
+    "expPerLevel": 594,
+    "masterExp": 41130,
+    "masterExpFromStart": 18576,
+    "bonus": {
+      "atAnchor": 27,
+      "perLevel": 1
+    },
+    "sellValue": {
+      "atAnchor": 21468,
+      "perLevel": 474
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "generals-belt",
+        "catalyst": "adamantite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "supple-leather",
+        "type": "component",
+        "qty": 15
+      },
+      {
+        "id": "incentive-chip",
+        "type": "component",
+        "qty": 2
+      }
+    ],
+    "description": "Increases physical resistance by X%.",
+    "maxBonus": 30,
+    "ultimateId": "champions-belt"
+  },
+  "rune-bracelet": {
+    "id": "rune-bracelet",
+    "kind": "accessory",
+    "name": "Rune Bracelet",
+    "baseName": "Rune Bracelet",
+    "rank": 3,
+    "ability": "Resist Magic: +X%",
+    "synthesizes": "Magic Wall",
+    "chapter": 4,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 480,
+    "expPerLevel": 198,
+    "masterExp": 4380,
+    "masterExpFromStart": 4380,
+    "bonus": {
+      "atAnchor": 10,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 2250,
+      "perLevel": 49
+    },
+    "buyPrice": 4500,
+    "upgradesTo": {
+      "item": "witchs-bracelet",
+      "catalyst": "uraninite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "barbed-tail",
+        "type": "component",
+        "qty": 9
+      },
+      {
+        "id": "credit-chip",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases magic resistance by X%.",
+    "maxBonus": 20,
+    "ultimateId": "maguss-bracelet"
+  },
+  "witchs-bracelet": {
+    "id": "witchs-bracelet",
+    "kind": "accessory",
+    "name": "Witch's Bracelet",
+    "baseName": "Witch's Bracelet",
+    "rank": 6,
+    "ability": "Resist Magic: +X%",
+    "synthesizes": "Magic Wall",
+    "chapter": 7,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 11,
+    "expBase": 960,
+    "expPerLevel": 396,
+    "masterExp": 27420,
+    "masterExpFromStart": 27420,
+    "bonus": {
+      "atAnchor": 15,
+      "perLevel": 1
+    },
+    "sellValue": {
+      "atAnchor": 6000,
+      "perLevel": 210
+    },
+    "buyPrice": 12000,
+    "upgradesTo": {
+      "item": "maguss-bracelet",
+      "catalyst": "adamantite",
+      "startLevel": 8
+    },
+    "upgradedFrom": [
+      {
+        "item": "rune-bracelet",
+        "catalyst": "uraninite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "diabolic-tail",
+        "type": "component",
+        "qty": 9
+      },
+      {
+        "id": "incentive-chip",
+        "type": "component",
+        "qty": 1
+      },
+      {
+        "id": "rhodochrosite",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases magic resistance by X%.",
+    "maxBonus": 25,
+    "ultimateId": "maguss-bracelet"
+  },
+  "maguss-bracelet": {
+    "id": "maguss-bracelet",
+    "kind": "accessory",
+    "name": "Magus's Bracelet",
+    "baseName": "Magus's Bracelet",
+    "rank": 9,
+    "ability": "Resist Magic: +X%",
+    "synthesizes": "Magic Wall",
+    "chapter": 11,
+    "startLevel": 8,
+    "anchorLevel": 8,
+    "maxLevel": 11,
+    "expBase": 1440,
+    "expPerLevel": 594,
+    "masterExp": 41130,
+    "masterExpFromStart": 18576,
+    "bonus": {
+      "atAnchor": 27,
+      "perLevel": 1
+    },
+    "sellValue": {
+      "atAnchor": 21468,
+      "perLevel": 474
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "witchs-bracelet",
+        "catalyst": "adamantite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "entrancing-tail",
+        "type": "component",
+        "qty": 15
+      },
+      {
+        "id": "incentive-chip",
+        "type": "component",
+        "qty": 2
+      }
+    ],
+    "description": "Increases magic resistance by X%.",
+    "maxBonus": 30,
+    "ultimateId": "maguss-bracelet"
+  },
+  "royal-armlet": {
+    "id": "royal-armlet",
+    "kind": "accessory",
+    "name": "Royal Armlet",
+    "baseName": "Royal Armlet",
+    "rank": 8,
+    "ability": "Resist Damage: +X%",
+    "synthesizes": null,
+    "chapter": 9,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 11,
+    "expBase": 1000,
+    "expPerLevel": 264,
+    "masterExp": 21880,
+    "masterExpFromStart": 21880,
+    "bonus": {
+      "atAnchor": 5,
+      "perLevel": 1
+    },
+    "sellValue": {
+      "atAnchor": 20000,
+      "perLevel": 375
+    },
+    "buyPrice": 200000,
+    "upgradesTo": {
+      "item": "imperial-armlet",
+      "catalyst": "dark-matter",
+      "startLevel": 6
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "piezoelectric-element",
+        "type": "component",
+        "qty": 19
+      },
+      {
+        "id": "cobaltite",
+        "type": "component",
+        "qty": 2
+      }
+    ],
+    "description": "Increases both physical and magic resistance by X%.",
+    "maxBonus": 15,
+    "ultimateId": "imperial-armlet"
+  },
+  "imperial-armlet": {
+    "id": "imperial-armlet",
+    "kind": "accessory",
+    "name": "Imperial Armlet",
+    "baseName": "Imperial Armlet",
+    "rank": 10,
+    "ability": "Resist Damage: +X%",
+    "synthesizes": null,
+    "chapter": 11,
+    "startLevel": 6,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 1500,
+    "expPerLevel": 330,
+    "masterExp": 10800,
+    "masterExpFromStart": 0,
+    "bonus": {
+      "atAnchor": 10,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 50000,
+      "perLevel": 546
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "royal-armlet",
+        "catalyst": "dark-matter"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "crystal-oscillator",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "perovskite",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases both physical and magic resistance by X%.",
+    "maxBonus": 20,
+    "ultimateId": "imperial-armlet"
+  },
+  "ember-ring": {
+    "id": "ember-ring",
+    "kind": "accessory",
+    "name": "Ember Ring",
+    "baseName": "Ember Ring",
+    "rank": 2,
+    "ability": "Resist Fire: +X%",
+    "synthesizes": "Fire Damage",
+    "chapter": 4,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 200,
+    "expPerLevel": 26,
+    "masterExp": 1260,
+    "masterExpFromStart": 1260,
+    "bonus": {
+      "atAnchor": 20,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 1000,
+      "perLevel": 21
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "blaze-ring",
+      "catalyst": "cobaltite",
+      "startLevel": 3
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "gummy-oil",
+        "type": "component",
+        "qty": 15
+      },
+      {
+        "id": "cieth-tear",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases fire resistance by X%.",
+    "maxBonus": 30,
+    "ultimateId": "salamandrine-ring"
+  },
+  "blaze-ring": {
+    "id": "blaze-ring",
+    "kind": "accessory",
+    "name": "Blaze Ring",
+    "baseName": "Blaze Ring",
+    "rank": 4,
+    "ability": "Resist Fire: +X%",
+    "synthesizes": "Fire Damage",
+    "chapter": 4,
+    "startLevel": 3,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 500,
+    "expPerLevel": 112,
+    "masterExp": 3620,
+    "masterExpFromStart": 2508,
+    "bonus": {
+      "atAnchor": 25,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 3000,
+      "perLevel": 87
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "salamandrine-ring",
+      "catalyst": "uraninite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [
+      {
+        "item": "ember-ring",
+        "catalyst": "cobaltite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "fragrant-oil",
+        "type": "component",
+        "qty": 12
+      },
+      {
+        "id": "tear-of-frustration",
+        "type": "component",
+        "qty": 8
+      },
+      {
+        "id": "sturdy-bone",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases fire resistance by X%.",
+    "maxBonus": 35,
+    "ultimateId": "salamandrine-ring"
+  },
+  "salamandrine-ring": {
+    "id": "salamandrine-ring",
+    "kind": "accessory",
+    "name": "Salamandrine Ring",
+    "baseName": "Salamandrine Ring",
+    "rank": 6,
+    "ability": "Resist Fire: +X%",
+    "synthesizes": "Fire Damage",
+    "chapter": 7,
+    "startLevel": 4,
+    "anchorLevel": 4,
+    "maxLevel": 6,
+    "expBase": 900,
+    "expPerLevel": 198,
+    "masterExp": 6480,
+    "masterExpFromStart": 3186,
+    "bonus": {
+      "atAnchor": 36,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 5588,
+      "perLevel": 196
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "blaze-ring",
+        "catalyst": "uraninite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "medicinal-oil",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "tear-of-remorse",
+        "type": "component",
+        "qty": 6
+      },
+      {
+        "id": "otherworldly-bone",
+        "type": "component",
+        "qty": 4
+      }
+    ],
+    "description": "Increases fire resistance by X%.",
+    "maxBonus": 40,
+    "ultimateId": "salamandrine-ring"
+  },
+  "frost-ring": {
+    "id": "frost-ring",
+    "kind": "accessory",
+    "name": "Frost Ring",
+    "baseName": "Frost Ring",
+    "rank": 2,
+    "ability": "Resist Ice: +X%",
+    "synthesizes": "Ice Damage",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 200,
+    "expPerLevel": 26,
+    "masterExp": 1260,
+    "masterExpFromStart": 1260,
+    "bonus": {
+      "atAnchor": 20,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 1000,
+      "perLevel": 21
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "icicle-ring",
+      "catalyst": "cobaltite",
+      "startLevel": 3
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "moistened-scale",
+        "type": "component",
+        "qty": 15
+      },
+      {
+        "id": "cieth-tear",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases ice resistance by X%.",
+    "maxBonus": 30,
+    "ultimateId": "boreal-ring"
+  },
+  "icicle-ring": {
+    "id": "icicle-ring",
+    "kind": "accessory",
+    "name": "Icicle Ring",
+    "baseName": "Icicle Ring",
+    "rank": 4,
+    "ability": "Resist Ice: +X%",
+    "synthesizes": "Ice Damage",
+    "chapter": 11,
+    "startLevel": 3,
+    "anchorLevel": 3,
+    "maxLevel": 6,
+    "expBase": 500,
+    "expPerLevel": 112,
+    "masterExp": 3620,
+    "masterExpFromStart": 2508,
+    "bonus": {
+      "atAnchor": 29,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 3174,
+      "perLevel": 87
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "boreal-ring",
+      "catalyst": "uraninite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [
+      {
+        "item": "frost-ring",
+        "catalyst": "cobaltite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "seapetal-scale",
+        "type": "component",
+        "qty": 12
+      },
+      {
+        "id": "tear-of-frustration",
+        "type": "component",
+        "qty": 8
+      },
+      {
+        "id": "spined-horn",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases ice resistance by X%.",
+    "maxBonus": 35,
+    "ultimateId": "boreal-ring"
+  },
+  "boreal-ring": {
+    "id": "boreal-ring",
+    "kind": "accessory",
+    "name": "Boreal Ring",
+    "baseName": "Boreal Ring",
+    "rank": 6,
+    "ability": "Resist Ice: +X%",
+    "synthesizes": "Ice Damage",
+    "chapter": 11,
+    "startLevel": 4,
+    "anchorLevel": 4,
+    "maxLevel": 6,
+    "expBase": 900,
+    "expPerLevel": 198,
+    "masterExp": 6480,
+    "masterExpFromStart": 3186,
+    "bonus": {
+      "atAnchor": 36,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 5588,
+      "perLevel": 196
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "icicle-ring",
+        "catalyst": "uraninite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "abyssal-scale",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "tear-of-remorse",
+        "type": "component",
+        "qty": 6
+      },
+      {
+        "id": "fiendish-horn",
+        "type": "component",
+        "qty": 4
+      }
+    ],
+    "description": "Increases ice resistance by X%.",
+    "maxBonus": 40,
+    "ultimateId": "boreal-ring"
+  },
+  "spark-ring": {
+    "id": "spark-ring",
+    "kind": "accessory",
+    "name": "Spark Ring",
+    "baseName": "Spark Ring",
+    "rank": 2,
+    "ability": "Resist Lightning: +X%",
+    "synthesizes": "Lightning Damage",
+    "chapter": 3,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 200,
+    "expPerLevel": 26,
+    "masterExp": 1260,
+    "masterExpFromStart": 1260,
+    "bonus": {
+      "atAnchor": 20,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 1000,
+      "perLevel": 21
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "fulmen-ring",
+      "catalyst": "cobaltite",
+      "startLevel": 3
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "chipped-fang",
+        "type": "component",
+        "qty": 15
+      },
+      {
+        "id": "cieth-tear",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases lightning resistance by X%.",
+    "maxBonus": 30,
+    "ultimateId": "raijin-ring"
+  },
+  "fulmen-ring": {
+    "id": "fulmen-ring",
+    "kind": "accessory",
+    "name": "Fulmen Ring",
+    "baseName": "Fulmen Ring",
+    "rank": 4,
+    "ability": "Resist Lightning: +X%",
+    "synthesizes": "Lightning Damage",
+    "chapter": 4,
+    "startLevel": 3,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 500,
+    "expPerLevel": 112,
+    "masterExp": 3620,
+    "masterExpFromStart": 2508,
+    "bonus": {
+      "atAnchor": 25,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 3000,
+      "perLevel": 87
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "raijin-ring",
+      "catalyst": "uraninite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [
+      {
+        "item": "spark-ring",
+        "catalyst": "cobaltite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "wicked-fang",
+        "type": "component",
+        "qty": 12
+      },
+      {
+        "id": "tear-of-frustration",
+        "type": "component",
+        "qty": 8
+      },
+      {
+        "id": "thickened-hide",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases lightning resistance by X%.",
+    "maxBonus": 35,
+    "ultimateId": "raijin-ring"
+  },
+  "raijin-ring": {
+    "id": "raijin-ring",
+    "kind": "accessory",
+    "name": "Raijin Ring",
+    "baseName": "Raijin Ring",
+    "rank": 6,
+    "ability": "Resist Lightning: +X%",
+    "synthesizes": "Lightning Damage",
+    "chapter": 7,
+    "startLevel": 4,
+    "anchorLevel": 4,
+    "maxLevel": 6,
+    "expBase": 900,
+    "expPerLevel": 198,
+    "masterExp": 6480,
+    "masterExpFromStart": 3186,
+    "bonus": {
+      "atAnchor": 36,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 5588,
+      "perLevel": 196
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "fulmen-ring",
+        "catalyst": "uraninite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "monstrous-fang",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "tear-of-remorse",
+        "type": "component",
+        "qty": 6
+      },
+      {
+        "id": "smooth-hide",
+        "type": "component",
+        "qty": 4
+      }
+    ],
+    "description": "Increases lightning resistance by X%.",
+    "maxBonus": 40,
+    "ultimateId": "raijin-ring"
+  },
+  "aqua-ring": {
+    "id": "aqua-ring",
+    "kind": "accessory",
+    "name": "Aqua Ring",
+    "baseName": "Aqua Ring",
+    "rank": 2,
+    "ability": "Resist Water: +X%",
+    "synthesizes": "Water Damage",
+    "chapter": 6,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 200,
+    "expPerLevel": 26,
+    "masterExp": 1260,
+    "masterExpFromStart": 1260,
+    "bonus": {
+      "atAnchor": 20,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 1000,
+      "perLevel": 21
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "riptide-ring",
+      "catalyst": "cobaltite",
+      "startLevel": 3
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "strange-fluid",
+        "type": "component",
+        "qty": 15
+      },
+      {
+        "id": "cieth-tear",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases water resistance by X%.",
+    "maxBonus": 30,
+    "ultimateId": "nereid-ring"
+  },
+  "riptide-ring": {
+    "id": "riptide-ring",
+    "kind": "accessory",
+    "name": "Riptide Ring",
+    "baseName": "Riptide Ring",
+    "rank": 4,
+    "ability": "Resist Water: +X%",
+    "synthesizes": "Water Damage",
+    "chapter": 6,
+    "startLevel": 3,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 500,
+    "expPerLevel": 112,
+    "masterExp": 3620,
+    "masterExpFromStart": 2508,
+    "bonus": {
+      "atAnchor": 25,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 3000,
+      "perLevel": 87
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "nereid-ring",
+      "catalyst": "uraninite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [
+      {
+        "item": "aqua-ring",
+        "catalyst": "cobaltite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "enigmatic-fluid",
+        "type": "component",
+        "qty": 12
+      },
+      {
+        "id": "tear-of-frustration",
+        "type": "component",
+        "qty": 8
+      },
+      {
+        "id": "vibrant-ooze",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases water resistance by X%.",
+    "maxBonus": 35,
+    "ultimateId": "nereid-ring"
+  },
+  "nereid-ring": {
+    "id": "nereid-ring",
+    "kind": "accessory",
+    "name": "Nereid Ring",
+    "baseName": "Nereid Ring",
+    "rank": 6,
+    "ability": "Resist Water: +X%",
+    "synthesizes": "Water Damage",
+    "chapter": 7,
+    "startLevel": 4,
+    "anchorLevel": 4,
+    "maxLevel": 6,
+    "expBase": 900,
+    "expPerLevel": 198,
+    "masterExp": 6480,
+    "masterExpFromStart": 3186,
+    "bonus": {
+      "atAnchor": 36,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 5588,
+      "perLevel": 196
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "riptide-ring",
+        "catalyst": "uraninite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "mysterious-fluid",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "tear-of-remorse",
+        "type": "component",
+        "qty": 6
+      },
+      {
+        "id": "transparent-ooze",
+        "type": "component",
+        "qty": 4
+      }
+    ],
+    "description": "Increases water resistance by X%.",
+    "maxBonus": 40,
+    "ultimateId": "nereid-ring"
+  },
+  "zephyr-ring": {
+    "id": "zephyr-ring",
+    "kind": "accessory",
+    "name": "Zephyr Ring",
+    "baseName": "Zephyr Ring",
+    "rank": 2,
+    "ability": "Resist Wind: +X%",
+    "synthesizes": "Wind Damage",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 200,
+    "expPerLevel": 26,
+    "masterExp": 1260,
+    "masterExpFromStart": 1260,
+    "bonus": {
+      "atAnchor": 20,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 1000,
+      "perLevel": 21
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "gale-ring",
+      "catalyst": "cobaltite",
+      "startLevel": 3
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "severed-wing",
+        "type": "component",
+        "qty": 15
+      },
+      {
+        "id": "cieth-tear",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases wind resistance by X%.",
+    "maxBonus": 30,
+    "ultimateId": "sylphid-ring"
+  },
+  "gale-ring": {
+    "id": "gale-ring",
+    "kind": "accessory",
+    "name": "Gale Ring",
+    "baseName": "Gale Ring",
+    "rank": 4,
+    "ability": "Resist Wind: +X%",
+    "synthesizes": "Wind Damage",
+    "chapter": 11,
+    "startLevel": 3,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 500,
+    "expPerLevel": 112,
+    "masterExp": 3620,
+    "masterExpFromStart": 2508,
+    "bonus": {
+      "atAnchor": 25,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 3000,
+      "perLevel": 87
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "sylphid-ring",
+      "catalyst": "uraninite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [
+      {
+        "item": "zephyr-ring",
+        "catalyst": "cobaltite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "scaled-wing",
+        "type": "component",
+        "qty": 12
+      },
+      {
+        "id": "tear-of-frustration",
+        "type": "component",
+        "qty": 8
+      },
+      {
+        "id": "barbed-tail",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases wind resistance by X%.",
+    "maxBonus": 35,
+    "ultimateId": "sylphid-ring"
+  },
+  "sylphid-ring": {
+    "id": "sylphid-ring",
+    "kind": "accessory",
+    "name": "Sylphid Ring",
+    "baseName": "Sylphid Ring",
+    "rank": 6,
+    "ability": "Resist Wind: +X%",
+    "synthesizes": "Wind Damage",
+    "chapter": 11,
+    "startLevel": 4,
+    "anchorLevel": 4,
+    "maxLevel": 6,
+    "expBase": 900,
+    "expPerLevel": 198,
+    "masterExp": 6480,
+    "masterExpFromStart": 3186,
+    "bonus": {
+      "atAnchor": 36,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 5588,
+      "perLevel": 196
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "gale-ring",
+        "catalyst": "uraninite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "abominable-wing",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "tear-of-remorse",
+        "type": "component",
+        "qty": 6
+      },
+      {
+        "id": "diabolic-tail",
+        "type": "component",
+        "qty": 4
+      }
+    ],
+    "description": "Increases wind resistance by X%.",
+    "maxBonus": 40,
+    "ultimateId": "sylphid-ring"
+  },
+  "clay-ring": {
+    "id": "clay-ring",
+    "kind": "accessory",
+    "name": "Clay Ring",
+    "baseName": "Clay Ring",
+    "rank": 2,
+    "ability": "Resist Earth: +X%",
+    "synthesizes": "Earth Damage",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 200,
+    "expPerLevel": 26,
+    "masterExp": 1260,
+    "masterExpFromStart": 1260,
+    "bonus": {
+      "atAnchor": 20,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 1000,
+      "perLevel": 21
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "siltstone-ring",
+      "catalyst": "cobaltite",
+      "startLevel": 3
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "begrimed-claw",
+        "type": "component",
+        "qty": 15
+      },
+      {
+        "id": "cieth-tear",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases earth resistance by X%.",
+    "maxBonus": 30,
+    "ultimateId": "gaian-ring"
+  },
+  "siltstone-ring": {
+    "id": "siltstone-ring",
+    "kind": "accessory",
+    "name": "Siltstone Ring",
+    "baseName": "Siltstone Ring",
+    "rank": 4,
+    "ability": "Resist Earth: +X%",
+    "synthesizes": "Earth Damage",
+    "chapter": 11,
+    "startLevel": 3,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 500,
+    "expPerLevel": 112,
+    "masterExp": 3620,
+    "masterExpFromStart": 2508,
+    "bonus": {
+      "atAnchor": 25,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 3000,
+      "perLevel": 87
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "gaian-ring",
+      "catalyst": "uraninite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [
+      {
+        "item": "clay-ring",
+        "catalyst": "cobaltite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "bestial-claw",
+        "type": "component",
+        "qty": 12
+      },
+      {
+        "id": "tear-of-frustration",
+        "type": "component",
+        "qty": 8
+      },
+      {
+        "id": "iron-shell",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases earth resistance by X%.",
+    "maxBonus": 35,
+    "ultimateId": "gaian-ring"
+  },
+  "gaian-ring": {
+    "id": "gaian-ring",
+    "kind": "accessory",
+    "name": "Gaian Ring",
+    "baseName": "Gaian Ring",
+    "rank": 6,
+    "ability": "Resist Earth: +X%",
+    "synthesizes": "Earth Damage",
+    "chapter": 11,
+    "startLevel": 4,
+    "anchorLevel": 4,
+    "maxLevel": 6,
+    "expBase": 900,
+    "expPerLevel": 198,
+    "masterExp": 6480,
+    "masterExpFromStart": 3186,
+    "bonus": {
+      "atAnchor": 36,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 5588,
+      "perLevel": 196
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "siltstone-ring",
+        "catalyst": "uraninite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "gargantuan-claw",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "tear-of-remorse",
+        "type": "component",
+        "qty": 6
+      },
+      {
+        "id": "armored-shell",
+        "type": "component",
+        "qty": 4
+      }
+    ],
+    "description": "Increases earth resistance by X%.",
+    "maxBonus": 40,
+    "ultimateId": "gaian-ring"
+  },
+  "giants-glove": {
+    "id": "giants-glove",
+    "kind": "accessory",
+    "name": "Giant's Glove",
+    "baseName": "Giant's Glove",
+    "rank": 3,
+    "ability": "Resist Debrave: +X%",
+    "synthesizes": "Debrave Duration",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 450,
+    "expPerLevel": 114,
+    "masterExp": 3390,
+    "masterExpFromStart": 3390,
+    "bonus": {
+      "atAnchor": 30,
+      "perLevel": 3
+    },
+    "sellValue": {
+      "atAnchor": 1500,
+      "perLevel": 49
+    },
+    "buyPrice": 3000,
+    "upgradesTo": {
+      "item": "warlords-glove",
+      "catalyst": "perovskite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "iron-shell",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "gloomstalk",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Debrave resistance by X%.",
+    "maxBonus": 45,
+    "ultimateId": "warlords-glove"
+  },
+  "warlords-glove": {
+    "id": "warlords-glove",
+    "kind": "accessory",
+    "name": "Warlord's Glove",
+    "baseName": "Warlord's Glove",
+    "rank": 5,
+    "ability": "Resist Debrave: +X%",
+    "synthesizes": "Debrave Duration",
+    "chapter": 11,
+    "startLevel": 4,
+    "anchorLevel": 4,
+    "maxLevel": 11,
+    "expBase": 760,
+    "expPerLevel": 195,
+    "masterExp": 16375,
+    "masterExpFromStart": 13510,
+    "bonus": {
+      "atAnchor": 46,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 4438,
+      "perLevel": 146
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "giants-glove",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "armored-shell",
+        "type": "component",
+        "qty": 9
+      },
+      {
+        "id": "sunpetal",
+        "type": "component",
+        "qty": 2
+      },
+      {
+        "id": "carburetor",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Debrave resistance by X%.",
+    "maxBonus": 60,
+    "ultimateId": "warlords-glove"
+  },
+  "glass-buckle": {
+    "id": "glass-buckle",
+    "kind": "accessory",
+    "name": "Glass Buckle",
+    "baseName": "Glass Buckle",
+    "rank": 3,
+    "ability": "Resist Defaith: +X%",
+    "synthesizes": "Defaith Duration",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 450,
+    "expPerLevel": 114,
+    "masterExp": 3390,
+    "masterExpFromStart": 3390,
+    "bonus": {
+      "atAnchor": 30,
+      "perLevel": 3
+    },
+    "sellValue": {
+      "atAnchor": 1500,
+      "perLevel": 49
+    },
+    "buyPrice": 3000,
+    "upgradesTo": {
+      "item": "tektite-buckle",
+      "catalyst": "perovskite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "spined-horn",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "gloomstalk",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Defaith resistance by X%.",
+    "maxBonus": 45,
+    "ultimateId": "tektite-buckle"
+  },
+  "tektite-buckle": {
+    "id": "tektite-buckle",
+    "kind": "accessory",
+    "name": "Tektite Buckle",
+    "baseName": "Tektite Buckle",
+    "rank": 5,
+    "ability": "Resist Defaith: +X%",
+    "synthesizes": "Defaith Duration",
+    "chapter": 11,
+    "startLevel": 4,
+    "anchorLevel": 4,
+    "maxLevel": 11,
+    "expBase": 760,
+    "expPerLevel": 195,
+    "masterExp": 16375,
+    "masterExpFromStart": 13510,
+    "bonus": {
+      "atAnchor": 46,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 4438,
+      "perLevel": 146
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "glass-buckle",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "fiendish-horn",
+        "type": "component",
+        "qty": 9
+      },
+      {
+        "id": "sunpetal",
+        "type": "component",
+        "qty": 2
+      },
+      {
+        "id": "carburetor",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Defaith resistance by X%.",
+    "maxBonus": 60,
+    "ultimateId": "tektite-buckle"
+  },
+  "metal-armband": {
+    "id": "metal-armband",
+    "kind": "accessory",
+    "name": "Metal Armband",
+    "baseName": "Metal Armband",
+    "rank": 3,
+    "ability": "Resist Deprotect: +X%",
+    "synthesizes": "Deprotect Duration",
+    "chapter": 4,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 450,
+    "expPerLevel": 114,
+    "masterExp": 3390,
+    "masterExpFromStart": 3390,
+    "bonus": {
+      "atAnchor": 30,
+      "perLevel": 3
+    },
+    "sellValue": {
+      "atAnchor": 1500,
+      "perLevel": 49
+    },
+    "buyPrice": 3000,
+    "upgradesTo": {
+      "item": "ceramic-armband",
+      "catalyst": "perovskite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "bestial-claw",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "gloomstalk",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Deprotect resistance by X%.",
+    "maxBonus": 45,
+    "ultimateId": "ceramic-armband"
+  },
+  "ceramic-armband": {
+    "id": "ceramic-armband",
+    "kind": "accessory",
+    "name": "Ceramic Armband",
+    "baseName": "Ceramic Armband",
+    "rank": 5,
+    "ability": "Resist Deprotect: +X%",
+    "synthesizes": "Deprotect Duration",
+    "chapter": 7,
+    "startLevel": 4,
+    "anchorLevel": 4,
+    "maxLevel": 11,
+    "expBase": 760,
+    "expPerLevel": 195,
+    "masterExp": 16375,
+    "masterExpFromStart": 13510,
+    "bonus": {
+      "atAnchor": 46,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 4438,
+      "perLevel": 146
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "metal-armband",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "gargantuan-claw",
+        "type": "component",
+        "qty": 9
+      },
+      {
+        "id": "sunpetal",
+        "type": "component",
+        "qty": 2
+      },
+      {
+        "id": "carburetor",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Deprotect resistance by X%.",
+    "maxBonus": 60,
+    "ultimateId": "ceramic-armband"
+  },
+  "serenity-sachet": {
+    "id": "serenity-sachet",
+    "kind": "accessory",
+    "name": "Serenity Sachet",
+    "baseName": "Serenity Sachet",
+    "rank": 3,
+    "ability": "Resist Deshell: +X%",
+    "synthesizes": "Deshell Duration",
+    "chapter": 5,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 450,
+    "expPerLevel": 114,
+    "masterExp": 3390,
+    "masterExpFromStart": 3390,
+    "bonus": {
+      "atAnchor": 30,
+      "perLevel": 3
+    },
+    "sellValue": {
+      "atAnchor": 1500,
+      "perLevel": 49
+    },
+    "buyPrice": 3000,
+    "upgradesTo": {
+      "item": "safeguard-sachet",
+      "catalyst": "perovskite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "barbed-tail",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "gloomstalk",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Deshell resistance by X%.",
+    "maxBonus": 45,
+    "ultimateId": "safeguard-sachet"
+  },
+  "safeguard-sachet": {
+    "id": "safeguard-sachet",
+    "kind": "accessory",
+    "name": "Safeguard Sachet",
+    "baseName": "Safeguard Sachet",
+    "rank": 5,
+    "ability": "Resist Deshell: +X%",
+    "synthesizes": "Deshell Duration",
+    "chapter": 7,
+    "startLevel": 4,
+    "anchorLevel": 4,
+    "maxLevel": 11,
+    "expBase": 760,
+    "expPerLevel": 195,
+    "masterExp": 16375,
+    "masterExpFromStart": 13510,
+    "bonus": {
+      "atAnchor": 46,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 4438,
+      "perLevel": 146
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "serenity-sachet",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "diabolic-tail",
+        "type": "component",
+        "qty": 9
+      },
+      {
+        "id": "sunpetal",
+        "type": "component",
+        "qty": 2
+      },
+      {
+        "id": "carburetor",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Deshell resistance by X%.",
+    "maxBonus": 60,
+    "ultimateId": "safeguard-sachet"
+  },
+  "glass-orb": {
+    "id": "glass-orb",
+    "kind": "accessory",
+    "name": "Glass Orb",
+    "baseName": "Glass Orb",
+    "rank": 3,
+    "ability": "Resist Slow: +X%",
+    "synthesizes": "Slow Duration",
+    "chapter": 9,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 450,
+    "expPerLevel": 114,
+    "masterExp": 3390,
+    "masterExpFromStart": 3390,
+    "bonus": {
+      "atAnchor": 30,
+      "perLevel": 3
+    },
+    "sellValue": {
+      "atAnchor": 1500,
+      "perLevel": 49
+    },
+    "buyPrice": 3000,
+    "upgradesTo": {
+      "item": "dragonfly-orb",
+      "catalyst": "perovskite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "fragrant-oil",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "gloomstalk",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Slow resistance by X%.",
+    "maxBonus": 45,
+    "ultimateId": "dragonfly-orb"
+  },
+  "dragonfly-orb": {
+    "id": "dragonfly-orb",
+    "kind": "accessory",
+    "name": "Dragonfly Orb",
+    "baseName": "Dragonfly Orb",
+    "rank": 5,
+    "ability": "Resist Slow: +X%",
+    "synthesizes": "Slow Duration",
+    "chapter": 9,
+    "startLevel": 4,
+    "anchorLevel": 4,
+    "maxLevel": 11,
+    "expBase": 760,
+    "expPerLevel": 195,
+    "masterExp": 16375,
+    "masterExpFromStart": 13510,
+    "bonus": {
+      "atAnchor": 46,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 4438,
+      "perLevel": 146
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "glass-orb",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "medicinal-oil",
+        "type": "component",
+        "qty": 9
+      },
+      {
+        "id": "sunpetal",
+        "type": "component",
+        "qty": 2
+      },
+      {
+        "id": "carburetor",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Slow resistance by X%.",
+    "maxBonus": 60,
+    "ultimateId": "dragonfly-orb"
+  },
+  "star-pendant": {
+    "id": "star-pendant",
+    "kind": "accessory",
+    "name": "Star Pendant",
+    "baseName": "Star Pendant",
+    "rank": 3,
+    "ability": "Resist Poison: +X%",
+    "synthesizes": "Poison Duration",
+    "chapter": 5,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 450,
+    "expPerLevel": 114,
+    "masterExp": 3390,
+    "masterExpFromStart": 3390,
+    "bonus": {
+      "atAnchor": 30,
+      "perLevel": 3
+    },
+    "sellValue": {
+      "atAnchor": 1500,
+      "perLevel": 49
+    },
+    "buyPrice": 3000,
+    "upgradesTo": {
+      "item": "starfall-pendant",
+      "catalyst": "perovskite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "vibrant-ooze",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "gloomstalk",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Poison resistance by X%.",
+    "maxBonus": 45,
+    "ultimateId": "starfall-pendant"
+  },
+  "starfall-pendant": {
+    "id": "starfall-pendant",
+    "kind": "accessory",
+    "name": "Starfall Pendant",
+    "baseName": "Starfall Pendant",
+    "rank": 5,
+    "ability": "Resist Poison: +X%",
+    "synthesizes": "Poison Duration",
+    "chapter": 7,
+    "startLevel": 4,
+    "anchorLevel": 4,
+    "maxLevel": 11,
+    "expBase": 760,
+    "expPerLevel": 195,
+    "masterExp": 16375,
+    "masterExpFromStart": 13510,
+    "bonus": {
+      "atAnchor": 46,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 4438,
+      "perLevel": 146
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "star-pendant",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "transparent-ooze",
+        "type": "component",
+        "qty": 9
+      },
+      {
+        "id": "sunpetal",
+        "type": "component",
+        "qty": 2
+      },
+      {
+        "id": "carburetor",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Poison resistance by X%.",
+    "maxBonus": 60,
+    "ultimateId": "starfall-pendant"
+  },
+  "pearl-necklace": {
+    "id": "pearl-necklace",
+    "kind": "accessory",
+    "name": "Pearl Necklace",
+    "baseName": "Pearl Necklace",
+    "rank": 3,
+    "ability": "Resist Imperil: +X%",
+    "synthesizes": "Imperil Duration",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 450,
+    "expPerLevel": 114,
+    "masterExp": 3390,
+    "masterExpFromStart": 3390,
+    "bonus": {
+      "atAnchor": 30,
+      "perLevel": 3
+    },
+    "sellValue": {
+      "atAnchor": 1500,
+      "perLevel": 49
+    },
+    "buyPrice": 3000,
+    "upgradesTo": {
+      "item": "gemstone-necklace",
+      "catalyst": "perovskite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "enigmatic-fluid",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "gloomstalk",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Imperil resistance by X%.",
+    "maxBonus": 45,
+    "ultimateId": "gemstone-necklace"
+  },
+  "gemstone-necklace": {
+    "id": "gemstone-necklace",
+    "kind": "accessory",
+    "name": "Gemstone Necklace",
+    "baseName": "Gemstone Necklace",
+    "rank": 5,
+    "ability": "Resist Imperil: +X%",
+    "synthesizes": "Imperil Duration",
+    "chapter": 11,
+    "startLevel": 4,
+    "anchorLevel": 4,
+    "maxLevel": 11,
+    "expBase": 760,
+    "expPerLevel": 195,
+    "masterExp": 16375,
+    "masterExpFromStart": 13510,
+    "bonus": {
+      "atAnchor": 46,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 4438,
+      "perLevel": 146
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "pearl-necklace",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "mysterious-fluid",
+        "type": "component",
+        "qty": 9
+      },
+      {
+        "id": "sunpetal",
+        "type": "component",
+        "qty": 2
+      },
+      {
+        "id": "carburetor",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Imperil resistance by X%.",
+    "maxBonus": 60,
+    "ultimateId": "gemstone-necklace"
+  },
+  "warding-talisman": {
+    "id": "warding-talisman",
+    "kind": "accessory",
+    "name": "Warding Talisman",
+    "baseName": "Warding Talisman",
+    "rank": 3,
+    "ability": "Resist Curse: +X%",
+    "synthesizes": "Curse Duration",
+    "chapter": 7,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 450,
+    "expPerLevel": 114,
+    "masterExp": 3390,
+    "masterExpFromStart": 3390,
+    "bonus": {
+      "atAnchor": 30,
+      "perLevel": 3
+    },
+    "sellValue": {
+      "atAnchor": 1500,
+      "perLevel": 49
+    },
+    "buyPrice": 3000,
+    "upgradesTo": {
+      "item": "hexbane-talisman",
+      "catalyst": "perovskite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "sturdy-bone",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "gloomstalk",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Curse resistance by X%.",
+    "maxBonus": 45,
+    "ultimateId": "hexbane-talisman"
+  },
+  "hexbane-talisman": {
+    "id": "hexbane-talisman",
+    "kind": "accessory",
+    "name": "Hexbane Talisman",
+    "baseName": "Hexbane Talisman",
+    "rank": 5,
+    "ability": "Resist Curse: +X%",
+    "synthesizes": "Curse Duration",
+    "chapter": 7,
+    "startLevel": 4,
+    "anchorLevel": 4,
+    "maxLevel": 11,
+    "expBase": 760,
+    "expPerLevel": 195,
+    "masterExp": 16375,
+    "masterExpFromStart": 13510,
+    "bonus": {
+      "atAnchor": 46,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 4438,
+      "perLevel": 146
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "warding-talisman",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "otherworldly-bone",
+        "type": "component",
+        "qty": 9
+      },
+      {
+        "id": "sunpetal",
+        "type": "component",
+        "qty": 2
+      },
+      {
+        "id": "carburetor",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Curse resistance by X%.",
+    "maxBonus": 60,
+    "ultimateId": "hexbane-talisman"
+  },
+  "pain-dampener": {
+    "id": "pain-dampener",
+    "kind": "accessory",
+    "name": "Pain Dampener",
+    "baseName": "Pain Dampener",
+    "rank": 3,
+    "ability": "Resist Pain: +X%",
+    "synthesizes": "Pain Duration",
+    "chapter": 9,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 450,
+    "expPerLevel": 114,
+    "masterExp": 3390,
+    "masterExpFromStart": 3390,
+    "bonus": {
+      "atAnchor": 30,
+      "perLevel": 3
+    },
+    "sellValue": {
+      "atAnchor": 1500,
+      "perLevel": 49
+    },
+    "buyPrice": 3000,
+    "upgradesTo": {
+      "item": "pain-deflector",
+      "catalyst": "perovskite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "seapetal-scale",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "gloomstalk",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Pain resistance by X%.",
+    "maxBonus": 45,
+    "ultimateId": "pain-deflector"
+  },
+  "pain-deflector": {
+    "id": "pain-deflector",
+    "kind": "accessory",
+    "name": "Pain Deflector",
+    "baseName": "Pain Deflector",
+    "rank": 5,
+    "ability": "Resist Pain: +X%",
+    "synthesizes": "Pain Duration",
+    "chapter": 9,
+    "startLevel": 4,
+    "anchorLevel": 4,
+    "maxLevel": 11,
+    "expBase": 760,
+    "expPerLevel": 195,
+    "masterExp": 16375,
+    "masterExpFromStart": 13510,
+    "bonus": {
+      "atAnchor": 46,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 4438,
+      "perLevel": 146
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "pain-dampener",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "abyssal-scale",
+        "type": "component",
+        "qty": 9
+      },
+      {
+        "id": "sunpetal",
+        "type": "component",
+        "qty": 2
+      },
+      {
+        "id": "carburetor",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Pain resistance by X%.",
+    "maxBonus": 60,
+    "ultimateId": "pain-deflector"
+  },
+  "white-cape": {
+    "id": "white-cape",
+    "kind": "accessory",
+    "name": "White Cape",
+    "baseName": "White Cape",
+    "rank": 3,
+    "ability": "Resist Fog: +X%",
+    "synthesizes": "Fog Duration",
+    "chapter": 9,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 450,
+    "expPerLevel": 114,
+    "masterExp": 3390,
+    "masterExpFromStart": 3390,
+    "bonus": {
+      "atAnchor": 30,
+      "perLevel": 3
+    },
+    "sellValue": {
+      "atAnchor": 1500,
+      "perLevel": 49
+    },
+    "buyPrice": 3000,
+    "upgradesTo": {
+      "item": "effulgent-cape",
+      "catalyst": "perovskite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "thickened-hide",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "gloomstalk",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Fog resistance by X%.",
+    "maxBonus": 45,
+    "ultimateId": "effulgent-cape"
+  },
+  "effulgent-cape": {
+    "id": "effulgent-cape",
+    "kind": "accessory",
+    "name": "Effulgent Cape",
+    "baseName": "Effulgent Cape",
+    "rank": 5,
+    "ability": "Resist Fog: +X%",
+    "synthesizes": "Fog Duration",
+    "chapter": 9,
+    "startLevel": 4,
+    "anchorLevel": 4,
+    "maxLevel": 11,
+    "expBase": 760,
+    "expPerLevel": 195,
+    "masterExp": 16375,
+    "masterExpFromStart": 13510,
+    "bonus": {
+      "atAnchor": 46,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 4438,
+      "perLevel": 146
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "white-cape",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "smooth-hide",
+        "type": "component",
+        "qty": 9
+      },
+      {
+        "id": "sunpetal",
+        "type": "component",
+        "qty": 2
+      },
+      {
+        "id": "carburetor",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Fog resistance by X%.",
+    "maxBonus": 60,
+    "ultimateId": "effulgent-cape"
+  },
+  "rainbow-anklet": {
+    "id": "rainbow-anklet",
+    "kind": "accessory",
+    "name": "Rainbow Anklet",
+    "baseName": "Rainbow Anklet",
+    "rank": 3,
+    "ability": "Resist Daze: +X%",
+    "synthesizes": "Daze Duration",
+    "chapter": 10,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 450,
+    "expPerLevel": 114,
+    "masterExp": 3390,
+    "masterExpFromStart": 3390,
+    "bonus": {
+      "atAnchor": 30,
+      "perLevel": 3
+    },
+    "sellValue": {
+      "atAnchor": 1500,
+      "perLevel": 49
+    },
+    "buyPrice": 3000,
+    "upgradesTo": {
+      "item": "moonbow-anklet",
+      "catalyst": "perovskite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "wicked-fang",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "gloomstalk",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Daze resistance by X%.",
+    "maxBonus": 45,
+    "ultimateId": "moonbow-anklet"
+  },
+  "moonbow-anklet": {
+    "id": "moonbow-anklet",
+    "kind": "accessory",
+    "name": "Moonbow Anklet",
+    "baseName": "Moonbow Anklet",
+    "rank": 5,
+    "ability": "Resist Daze: +X%",
+    "synthesizes": "Daze Duration",
+    "chapter": 10,
+    "startLevel": 4,
+    "anchorLevel": 4,
+    "maxLevel": 11,
+    "expBase": 760,
+    "expPerLevel": 195,
+    "masterExp": 16375,
+    "masterExpFromStart": 13510,
+    "bonus": {
+      "atAnchor": 46,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 4438,
+      "perLevel": 146
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "rainbow-anklet",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "monstrous-fang",
+        "type": "component",
+        "qty": 9
+      },
+      {
+        "id": "sunpetal",
+        "type": "component",
+        "qty": 2
+      },
+      {
+        "id": "carburetor",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Daze resistance by X%.",
+    "maxBonus": 60,
+    "ultimateId": "moonbow-anklet"
+  },
+  "cherubs-crown": {
+    "id": "cherubs-crown",
+    "kind": "accessory",
+    "name": "Cherub's Crown",
+    "baseName": "Cherub's Crown",
+    "rank": 3,
+    "ability": "Resist Death: +X%",
+    "synthesizes": "Vampiric Strike",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 450,
+    "expPerLevel": 114,
+    "masterExp": 3390,
+    "masterExpFromStart": 3390,
+    "bonus": {
+      "atAnchor": 30,
+      "perLevel": 3
+    },
+    "sellValue": {
+      "atAnchor": 1500,
+      "perLevel": 49
+    },
+    "buyPrice": 3000,
+    "upgradesTo": {
+      "item": "seraphs-crown",
+      "catalyst": "perovskite",
+      "startLevel": 4
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "rough-wool",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "gloomstalk",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Death resistance by X%.",
+    "maxBonus": 45,
+    "ultimateId": "seraphs-crown"
+  },
+  "seraphs-crown": {
+    "id": "seraphs-crown",
+    "kind": "accessory",
+    "name": "Seraph's Crown",
+    "baseName": "Seraph's Crown",
+    "rank": 5,
+    "ability": "Resist Death: +X%",
+    "synthesizes": "Vampiric Strike",
+    "chapter": 11,
+    "startLevel": 4,
+    "anchorLevel": 4,
+    "maxLevel": 11,
+    "expBase": 760,
+    "expPerLevel": 195,
+    "masterExp": 16375,
+    "masterExpFromStart": 13510,
+    "bonus": {
+      "atAnchor": 46,
+      "perLevel": 2
+    },
+    "sellValue": {
+      "atAnchor": 4438,
+      "perLevel": 146
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "cherubs-crown",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "thick-wool",
+        "type": "component",
+        "qty": 9
+      },
+      {
+        "id": "sunpetal",
+        "type": "component",
+        "qty": 2
+      },
+      {
+        "id": "carburetor",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases Death resistance by X%.",
+    "maxBonus": 60,
+    "ultimateId": "seraphs-crown"
+  },
+  "guardian-amulet": {
+    "id": "guardian-amulet",
+    "kind": "accessory",
+    "name": "Guardian Amulet",
+    "baseName": "Guardian Amulet",
+    "rank": 2,
+    "ability": "Critical: Protect",
+    "synthesizes": "Physical Wall",
+    "chapter": 7,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 600,
+    "expPerLevel": 0,
+    "masterExp": 600,
+    "masterExpFromStart": 600,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 2500,
+      "perLevel": 20
+    },
+    "buyPrice": 5000,
+    "upgradesTo": {
+      "item": "shield-talisman",
+      "catalyst": "perovskite",
+      "startLevel": 1
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "moistened-scale",
+        "type": "component",
+        "qty": 5
+      },
+      {
+        "id": "piezoelectric-element",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Casts Protect when HP is low.  Functions only once per battle.",
+    "maxBonus": null,
+    "ultimateId": "shield-talisman"
+  },
+  "shield-talisman": {
+    "id": "shield-talisman",
+    "kind": "accessory",
+    "name": "Shield Talisman",
+    "baseName": "Shield Talisman",
+    "rank": 5,
+    "ability": "Auto-Protect",
+    "synthesizes": "Physical Wall",
+    "chapter": 7,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 1500,
+    "expPerLevel": 0,
+    "masterExp": 1500,
+    "masterExpFromStart": 1500,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 6000,
+      "perLevel": 128
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "guardian-amulet",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "moistened-scale",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "seapetal-scale",
+        "type": "component",
+        "qty": 5
+      },
+      {
+        "id": "crystal-oscillator",
+        "type": "component",
+        "qty": 3
+      }
+    ],
+    "description": "Cast Protect at the start of battle.",
+    "maxBonus": null,
+    "ultimateId": "shield-talisman"
+  },
+  "auric-amulet": {
+    "id": "auric-amulet",
+    "kind": "accessory",
+    "name": "Auric Amulet",
+    "baseName": "Auric Amulet",
+    "rank": 2,
+    "ability": "Critical: Shell",
+    "synthesizes": "Magic Wall",
+    "chapter": 4,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 600,
+    "expPerLevel": 0,
+    "masterExp": 600,
+    "masterExpFromStart": 600,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 2500,
+      "perLevel": 20
+    },
+    "buyPrice": 5000,
+    "upgradesTo": {
+      "item": "soulfont-talisman",
+      "catalyst": "perovskite",
+      "startLevel": 1
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "segmented-carapace",
+        "type": "component",
+        "qty": 5
+      },
+      {
+        "id": "piezoelectric-element",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Casts Shell when HP is low.  Functions only once per battle.",
+    "maxBonus": null,
+    "ultimateId": "soulfont-talisman"
+  },
+  "soulfont-talisman": {
+    "id": "soulfont-talisman",
+    "kind": "accessory",
+    "name": "Soulfont Talisman",
+    "baseName": "Soulfont Talisman",
+    "rank": 5,
+    "ability": "Auto-Shell",
+    "synthesizes": "Magic Wall",
+    "chapter": 7,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 1500,
+    "expPerLevel": 0,
+    "masterExp": 1500,
+    "masterExpFromStart": 1500,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 6000,
+      "perLevel": 128
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "auric-amulet",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "segmented-carapace",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "iron-shell",
+        "type": "component",
+        "qty": 5
+      },
+      {
+        "id": "crystal-oscillator",
+        "type": "component",
+        "qty": 3
+      }
+    ],
+    "description": "Cast Shell at the start of battle.",
+    "maxBonus": null,
+    "ultimateId": "soulfont-talisman"
+  },
+  "watchmans-amulet": {
+    "id": "watchmans-amulet",
+    "kind": "accessory",
+    "name": "Watchman's Amulet",
+    "baseName": "Watchman's Amulet",
+    "rank": 2,
+    "ability": "Critical: Veil",
+    "synthesizes": "Buff Duration",
+    "chapter": 5,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 600,
+    "expPerLevel": 0,
+    "masterExp": 600,
+    "masterExpFromStart": 600,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 2500,
+      "perLevel": 20
+    },
+    "buyPrice": 5000,
+    "upgradesTo": {
+      "item": "shrouding-talisman",
+      "catalyst": "perovskite",
+      "startLevel": 1
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "torn-leather",
+        "type": "component",
+        "qty": 5
+      },
+      {
+        "id": "piezoelectric-element",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Casts Veil when HP is low.  Functions only once per battle.",
+    "maxBonus": null,
+    "ultimateId": "shrouding-talisman"
+  },
+  "shrouding-talisman": {
+    "id": "shrouding-talisman",
+    "kind": "accessory",
+    "name": "Shrouding Talisman",
+    "baseName": "Shrouding Talisman",
+    "rank": 5,
+    "ability": "Auto-Veil",
+    "synthesizes": "Buff Duration",
+    "chapter": 7,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 1500,
+    "expPerLevel": 0,
+    "masterExp": 1500,
+    "masterExpFromStart": 1500,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 6000,
+      "perLevel": 128
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "watchmans-amulet",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "torn-leather",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "thickened-hide",
+        "type": "component",
+        "qty": 5
+      },
+      {
+        "id": "crystal-oscillator",
+        "type": "component",
+        "qty": 3
+      }
+    ],
+    "description": "Casts Veil at the start of battle.",
+    "maxBonus": null,
+    "ultimateId": "shrouding-talisman"
+  },
+  "heros-amulet": {
+    "id": "heros-amulet",
+    "kind": "accessory",
+    "name": "Hero's Amulet",
+    "baseName": "Hero's Amulet",
+    "rank": 2,
+    "ability": "Critical: Bravery",
+    "synthesizes": "Physical Wall",
+    "chapter": 10,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 600,
+    "expPerLevel": 0,
+    "masterExp": 600,
+    "masterExpFromStart": 600,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 2500,
+      "perLevel": 20
+    },
+    "buyPrice": 5000,
+    "upgradesTo": {
+      "item": "morale-talisman",
+      "catalyst": "perovskite",
+      "startLevel": 1
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "begrimed-claw",
+        "type": "component",
+        "qty": 5
+      },
+      {
+        "id": "piezoelectric-element",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Casts Bravery when HP is low.  Functions only once per battle.",
+    "maxBonus": null,
+    "ultimateId": "morale-talisman"
+  },
+  "morale-talisman": {
+    "id": "morale-talisman",
+    "kind": "accessory",
+    "name": "Morale Talisman",
+    "baseName": "Morale Talisman",
+    "rank": 5,
+    "ability": "Auto-Bravery",
+    "synthesizes": "Physical Wall",
+    "chapter": 10,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 1500,
+    "expPerLevel": 0,
+    "masterExp": 1500,
+    "masterExpFromStart": 1500,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 6000,
+      "perLevel": 128
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "heros-amulet",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "begrimed-claw",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "bestial-claw",
+        "type": "component",
+        "qty": 5
+      },
+      {
+        "id": "crystal-oscillator",
+        "type": "component",
+        "qty": 3
+      }
+    ],
+    "description": "Casts Bravery at the start of battle.",
+    "maxBonus": null,
+    "ultimateId": "morale-talisman"
+  },
+  "saints-amulet": {
+    "id": "saints-amulet",
+    "kind": "accessory",
+    "name": "Saint's Amulet",
+    "baseName": "Saint's Amulet",
+    "rank": 2,
+    "ability": "Critical: Faith",
+    "synthesizes": "Magic Wall",
+    "chapter": 10,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 600,
+    "expPerLevel": 0,
+    "masterExp": 600,
+    "masterExpFromStart": 600,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 2500,
+      "perLevel": 20
+    },
+    "buyPrice": 5000,
+    "upgradesTo": {
+      "item": "blessed-talisman",
+      "catalyst": "perovskite",
+      "startLevel": 1
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "shattered-bone",
+        "type": "component",
+        "qty": 5
+      },
+      {
+        "id": "piezoelectric-element",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Casts Faith when HP is low.  Functions only once per battle.",
+    "maxBonus": null,
+    "ultimateId": "blessed-talisman"
+  },
+  "blessed-talisman": {
+    "id": "blessed-talisman",
+    "kind": "accessory",
+    "name": "Blessed Talisman",
+    "baseName": "Blessed Talisman",
+    "rank": 5,
+    "ability": "Auto-Faith",
+    "synthesizes": "Magic Wall",
+    "chapter": 9,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 1500,
+    "expPerLevel": 0,
+    "masterExp": 1500,
+    "masterExpFromStart": 1500,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 6000,
+      "perLevel": 128
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "saints-amulet",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "shattered-bone",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "sturdy-bone",
+        "type": "component",
+        "qty": 5
+      },
+      {
+        "id": "crystal-oscillator",
+        "type": "component",
+        "qty": 3
+      }
+    ],
+    "description": "Cast Faith at the start of battle.",
+    "maxBonus": null,
+    "ultimateId": "blessed-talisman"
+  },
+  "zealots-amulet": {
+    "id": "zealots-amulet",
+    "kind": "accessory",
+    "name": "Zealot's Amulet",
+    "baseName": "Zealot's Amulet",
+    "rank": 2,
+    "ability": "Critical: Vigilance",
+    "synthesizes": "Vampiric Strike",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 600,
+    "expPerLevel": 0,
+    "masterExp": 600,
+    "masterExpFromStart": 600,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 2500,
+      "perLevel": 20
+    },
+    "buyPrice": 5000,
+    "upgradesTo": {
+      "item": "battle-talisman",
+      "catalyst": "perovskite",
+      "startLevel": 1
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "gummy-oil",
+        "type": "component",
+        "qty": 5
+      },
+      {
+        "id": "piezoelectric-element",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Casts Vigilance when HP is low.  Functions only once per battle.",
+    "maxBonus": null,
+    "ultimateId": "battle-talisman"
+  },
+  "battle-talisman": {
+    "id": "battle-talisman",
+    "kind": "accessory",
+    "name": "Battle Talisman",
+    "baseName": "Battle Talisman",
+    "rank": 5,
+    "ability": "Auto-Vigilance",
+    "synthesizes": "Vampiric Strike",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 1500,
+    "expPerLevel": 0,
+    "masterExp": 1500,
+    "masterExpFromStart": 1500,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 6000,
+      "perLevel": 128
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "zealots-amulet",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "gummy-oil",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "fragrant-oil",
+        "type": "component",
+        "qty": 5
+      },
+      {
+        "id": "crystal-oscillator",
+        "type": "component",
+        "qty": 3
+      }
+    ],
+    "description": "Casts Vigilance at the start of battle.",
+    "maxBonus": null,
+    "ultimateId": "battle-talisman"
+  },
+  "flamebane-brooch": {
+    "id": "flamebane-brooch",
+    "kind": "accessory",
+    "name": "Flamebane Brooch",
+    "baseName": "Flamebane Brooch",
+    "rank": 2,
+    "ability": "Critical: Barfire",
+    "synthesizes": "Fire Damage",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 600,
+    "expPerLevel": 0,
+    "masterExp": 600,
+    "masterExpFromStart": 600,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 1500,
+      "perLevel": 20
+    },
+    "buyPrice": 3000,
+    "upgradesTo": {
+      "item": "flameshield-earring",
+      "catalyst": "perovskite",
+      "startLevel": 1
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "chipped-fang",
+        "type": "component",
+        "qty": 7
+      },
+      {
+        "id": "piezoelectric-element",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Casts Barfire when HP is low.  Only one brooch activates, and only once per battle.",
+    "maxBonus": null,
+    "ultimateId": "flameshield-earring"
+  },
+  "flameshield-earring": {
+    "id": "flameshield-earring",
+    "kind": "accessory",
+    "name": "Flameshield Earring",
+    "baseName": "Flameshield Earring",
+    "rank": 5,
+    "ability": "Auto-Barfire",
+    "synthesizes": "Fire Damage",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 1500,
+    "expPerLevel": 0,
+    "masterExp": 1500,
+    "masterExpFromStart": 1500,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 4000,
+      "perLevel": 128
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "flamebane-brooch",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "chipped-fang",
+        "type": "component",
+        "qty": 8
+      },
+      {
+        "id": "wicked-fang",
+        "type": "component",
+        "qty": 6
+      },
+      {
+        "id": "crystal-oscillator",
+        "type": "component",
+        "qty": 3
+      }
+    ],
+    "description": "Casts Barfire at the start of battle.  Only one earring activates per battle.",
+    "maxBonus": null,
+    "ultimateId": "flameshield-earring"
+  },
+  "frostbane-brooch": {
+    "id": "frostbane-brooch",
+    "kind": "accessory",
+    "name": "Frostbane Brooch",
+    "baseName": "Frostbane Brooch",
+    "rank": 2,
+    "ability": "Critical: Barfrost",
+    "synthesizes": "Ice Damage",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 600,
+    "expPerLevel": 0,
+    "masterExp": 600,
+    "masterExpFromStart": 600,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 1500,
+      "perLevel": 20
+    },
+    "buyPrice": 3000,
+    "upgradesTo": {
+      "item": "frostshield-earring",
+      "catalyst": "perovskite",
+      "startLevel": 1
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "murky-ooze",
+        "type": "component",
+        "qty": 7
+      },
+      {
+        "id": "piezoelectric-element",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Casts Barfrost when HP is low.  Only one brooch activates, and only once per battle.",
+    "maxBonus": null,
+    "ultimateId": "frostshield-earring"
+  },
+  "frostshield-earring": {
+    "id": "frostshield-earring",
+    "kind": "accessory",
+    "name": "Frostshield Earring",
+    "baseName": "Frostshield Earring",
+    "rank": 5,
+    "ability": "Auto-Barfrost",
+    "synthesizes": "Ice Damage",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 1500,
+    "expPerLevel": 0,
+    "masterExp": 1500,
+    "masterExpFromStart": 1500,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 4000,
+      "perLevel": 128
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "frostbane-brooch",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "murky-ooze",
+        "type": "component",
+        "qty": 8
+      },
+      {
+        "id": "vibrant-ooze",
+        "type": "component",
+        "qty": 6
+      },
+      {
+        "id": "crystal-oscillator",
+        "type": "component",
+        "qty": 3
+      }
+    ],
+    "description": "Casts Barfrost at the start of battle.  Only one earring activates per battle.",
+    "maxBonus": null,
+    "ultimateId": "frostshield-earring"
+  },
+  "sparkbane-brooch": {
+    "id": "sparkbane-brooch",
+    "kind": "accessory",
+    "name": "Sparkbane Brooch",
+    "baseName": "Sparkbane Brooch",
+    "rank": 2,
+    "ability": "Critical: Barthunder",
+    "synthesizes": "Lightning Damage",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 600,
+    "expPerLevel": 0,
+    "masterExp": 600,
+    "masterExpFromStart": 600,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 1500,
+      "perLevel": 20
+    },
+    "buyPrice": 3000,
+    "upgradesTo": {
+      "item": "sparkshield-earring",
+      "catalyst": "perovskite",
+      "startLevel": 1
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "fractured-horn",
+        "type": "component",
+        "qty": 7
+      },
+      {
+        "id": "piezoelectric-element",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Casts Barthunder when HP is low.  Only one brooch activates, and only once per battle.",
+    "maxBonus": null,
+    "ultimateId": "sparkshield-earring"
+  },
+  "sparkshield-earring": {
+    "id": "sparkshield-earring",
+    "kind": "accessory",
+    "name": "Sparkshield Earring",
+    "baseName": "Sparkshield Earring",
+    "rank": 5,
+    "ability": "Auto-Barthunder",
+    "synthesizes": "Lightning Damage",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 1500,
+    "expPerLevel": 0,
+    "masterExp": 1500,
+    "masterExpFromStart": 1500,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 4000,
+      "perLevel": 128
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "sparkbane-brooch",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "fractured-horn",
+        "type": "component",
+        "qty": 8
+      },
+      {
+        "id": "spined-horn",
+        "type": "component",
+        "qty": 6
+      },
+      {
+        "id": "crystal-oscillator",
+        "type": "component",
+        "qty": 3
+      }
+    ],
+    "description": "Casts Barthunder at the start of battle.  Only one earring activates per battle.",
+    "maxBonus": null,
+    "ultimateId": "sparkshield-earring"
+  },
+  "aquabane-brooch": {
+    "id": "aquabane-brooch",
+    "kind": "accessory",
+    "name": "Aquabane Brooch",
+    "baseName": "Aquabane Brooch",
+    "rank": 2,
+    "ability": "Critical: Barwater",
+    "synthesizes": "Water Damage",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 600,
+    "expPerLevel": 0,
+    "masterExp": 600,
+    "masterExpFromStart": 600,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 1500,
+      "perLevel": 20
+    },
+    "buyPrice": 3000,
+    "upgradesTo": {
+      "item": "aquashield-earring",
+      "catalyst": "perovskite",
+      "startLevel": 1
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "strange-fluid",
+        "type": "component",
+        "qty": 7
+      },
+      {
+        "id": "piezoelectric-element",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Casts Barwater when HP is low.  Only one brooch activates, and only once per battle.",
+    "maxBonus": null,
+    "ultimateId": "aquashield-earring"
+  },
+  "aquashield-earring": {
+    "id": "aquashield-earring",
+    "kind": "accessory",
+    "name": "Aquashield Earring",
+    "baseName": "Aquashield Earring",
+    "rank": 5,
+    "ability": "Auto-Barwater",
+    "synthesizes": "Water Damage",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 1500,
+    "expPerLevel": 0,
+    "masterExp": 1500,
+    "masterExpFromStart": 1500,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 4000,
+      "perLevel": 128
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "aquabane-brooch",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "strange-fluid",
+        "type": "component",
+        "qty": 8
+      },
+      {
+        "id": "enigmatic-fluid",
+        "type": "component",
+        "qty": 6
+      },
+      {
+        "id": "crystal-oscillator",
+        "type": "component",
+        "qty": 3
+      }
+    ],
+    "description": "Casts Barwater at the start of battle.  Only one earring activates per battle.",
+    "maxBonus": null,
+    "ultimateId": "aquashield-earring"
+  },
+  "hermes-sandals": {
+    "id": "hermes-sandals",
+    "kind": "accessory",
+    "name": "Hermes Sandals",
+    "baseName": "Hermes Sandals",
+    "rank": 2,
+    "ability": "Critical: Haste",
+    "synthesizes": "ATB Rate",
+    "chapter": 10,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 600,
+    "expPerLevel": 0,
+    "masterExp": 600,
+    "masterExpFromStart": 600,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 2500,
+      "perLevel": 20
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "sprint-shoes",
+      "catalyst": "perovskite",
+      "startLevel": 1
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "severed-wing",
+        "type": "component",
+        "qty": 7
+      },
+      {
+        "id": "piezoelectric-element",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Casts Haste when HP is low.  Functions only once per battle.",
+    "maxBonus": null,
+    "ultimateId": "sprint-shoes"
+  },
+  "sprint-shoes": {
+    "id": "sprint-shoes",
+    "kind": "accessory",
+    "name": "Sprint Shoes",
+    "baseName": "Sprint Shoes",
+    "rank": 5,
+    "ability": "Auto-Haste",
+    "synthesizes": "ATB Rate",
+    "chapter": 10,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 1500,
+    "expPerLevel": 0,
+    "masterExp": 1500,
+    "masterExpFromStart": 1500,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 6000,
+      "perLevel": 128
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "hermes-sandals",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "severed-wing",
+        "type": "component",
+        "qty": 5
+      },
+      {
+        "id": "scaled-wing",
+        "type": "component",
+        "qty": 6
+      },
+      {
+        "id": "crystal-oscillator",
+        "type": "component",
+        "qty": 3
+      }
+    ],
+    "description": "Casts Haste at the start of battle.",
+    "maxBonus": null,
+    "ultimateId": "sprint-shoes"
+  },
+  "tetradic-crown": {
+    "id": "tetradic-crown",
+    "kind": "accessory",
+    "name": "Tetradic Crown",
+    "baseName": "Tetradic Crown",
+    "rank": 4,
+    "ability": "Critical: Tetradefense",
+    "synthesizes": null,
+    "chapter": 10,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 1000,
+    "expPerLevel": 0,
+    "masterExp": 1000,
+    "masterExpFromStart": 1000,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 15000,
+      "perLevel": 82
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "tetradic-tiara",
+      "catalyst": "scarletite",
+      "startLevel": 1
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "green-needle",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Casts Protect, Shell, Veil, and Vigilance the first time HP is low.",
+    "maxBonus": null,
+    "ultimateId": "tetradic-tiara"
+  },
+  "tetradic-tiara": {
+    "id": "tetradic-tiara",
+    "kind": "accessory",
+    "name": "Tetradic Tiara",
+    "baseName": "Tetradic Tiara",
+    "rank": 8,
+    "ability": "Auto-Tetradefense",
+    "synthesizes": null,
+    "chapter": 10,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 2000,
+    "expPerLevel": 0,
+    "masterExp": 2000,
+    "masterExpFromStart": 2000,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 40000,
+      "perLevel": 330
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "tetradic-crown",
+        "catalyst": "scarletite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "perfume",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Casts Protect, Shell, Veil, and Vigilance at the start of battle.",
+    "maxBonus": null,
+    "ultimateId": "tetradic-tiara"
+  },
+  "whistlewind-scarf": {
+    "id": "whistlewind-scarf",
+    "kind": "accessory",
+    "name": "Whistlewind Scarf",
+    "baseName": "Whistlewind Scarf",
+    "rank": 2,
+    "ability": "ATB Advantage",
+    "synthesizes": "ATB Rate",
+    "chapter": 9,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 350,
+    "expPerLevel": 0,
+    "masterExp": 350,
+    "masterExpFromStart": 350,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 500,
+      "perLevel": 20
+    },
+    "buyPrice": 1000,
+    "upgradesTo": {
+      "item": "aurora-scarf",
+      "catalyst": "rhodochrosite",
+      "startLevel": 1
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "chocobo-plume",
+        "type": "component",
+        "qty": 5
+      },
+      {
+        "id": "chocobo-tail-feather",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Charges a single ATB gauge segment prior to battle.",
+    "maxBonus": null,
+    "ultimateId": "nimbletoe-boots"
+  },
+  "aurora-scarf": {
+    "id": "aurora-scarf",
+    "kind": "accessory",
+    "name": "Aurora Scarf",
+    "baseName": "Aurora Scarf",
+    "rank": 3,
+    "ability": "First Strike",
+    "synthesizes": "ATB Rate",
+    "chapter": 9,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 525,
+    "expPerLevel": 0,
+    "masterExp": 525,
+    "masterExpFromStart": 525,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 1500,
+      "perLevel": 46
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "nimbletoe-boots",
+      "catalyst": "cobaltite",
+      "startLevel": 1
+    },
+    "upgradedFrom": [
+      {
+        "item": "whistlewind-scarf",
+        "catalyst": "rhodochrosite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "chocobo-tail-feather",
+        "type": "component",
+        "qty": 8
+      },
+      {
+        "id": "active-detector",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Fully charges the wearer's ATB gauge prior to battle.",
+    "maxBonus": null,
+    "ultimateId": "nimbletoe-boots"
+  },
+  "nimbletoe-boots": {
+    "id": "nimbletoe-boots",
+    "kind": "accessory",
+    "name": "Nimbletoe Boots",
+    "baseName": "Nimbletoe Boots",
+    "rank": 4,
+    "ability": "Improved Evasion",
+    "synthesizes": "ATB Rate",
+    "chapter": 9,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 700,
+    "expPerLevel": 0,
+    "masterExp": 700,
+    "masterExpFromStart": 700,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 3000,
+      "perLevel": 82
+    },
+    "buyPrice": 6000,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "aurora-scarf",
+        "catalyst": "cobaltite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "chocobo-tail-feather",
+        "type": "component",
+        "qty": 5
+      },
+      {
+        "id": "supercharger",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases the odds of dodging attacks with the Sentinel's Evasion ability.",
+    "maxBonus": null,
+    "ultimateId": "nimbletoe-boots"
+  },
+  "survivalist-catalog": {
+    "id": "survivalist-catalog",
+    "kind": "accessory",
+    "name": "Survivalist Catalog",
+    "baseName": "Survivalist Catalog",
+    "rank": 5,
+    "ability": "Shroud Scavenger",
+    "synthesizes": "Random: Instant Chain",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 875,
+    "expPerLevel": 0,
+    "masterExp": 875,
+    "masterExpFromStart": 875,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 3500,
+      "perLevel": 128
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "collector-catalog",
+      "catalyst": "uraninite",
+      "startLevel": 1
+    },
+    "upgradedFrom": [
+      {
+        "item": "champions-badge",
+        "catalyst": "perovskite"
+      }
+    ],
+    "dismantle": [],
+    "description": "Increases the odds of obtaining shrouds after battle.",
+    "maxBonus": null,
+    "ultimateId": "connoisseur-catalog"
+  },
+  "collector-catalog": {
+    "id": "collector-catalog",
+    "kind": "accessory",
+    "name": "Collector Catalog",
+    "baseName": "Collector Catalog",
+    "rank": 6,
+    "ability": "Item Scavenger",
+    "synthesizes": null,
+    "chapter": 10,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 1050,
+    "expPerLevel": 0,
+    "masterExp": 1050,
+    "masterExpFromStart": 1050,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 50000,
+      "perLevel": 185
+    },
+    "buyPrice": 100000,
+    "upgradesTo": {
+      "item": "connoisseur-catalog",
+      "catalyst": "mnar-stone",
+      "startLevel": 1
+    },
+    "upgradedFrom": [
+      {
+        "item": "survivalist-catalog",
+        "catalyst": "uraninite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "incentive-chip",
+        "type": "component",
+        "qty": 1
+      },
+      {
+        "id": "succulent-fruit",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases the odds of obtaining items after battle.",
+    "maxBonus": null,
+    "ultimateId": "connoisseur-catalog"
+  },
+  "connoisseur-catalog": {
+    "id": "connoisseur-catalog",
+    "kind": "accessory",
+    "name": "Connoisseur Catalog",
+    "baseName": "Connoisseur Catalog",
+    "rank": 7,
+    "ability": "Item Collector",
+    "synthesizes": null,
+    "chapter": 10,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 1225,
+    "expPerLevel": 0,
+    "masterExp": 1225,
+    "masterExpFromStart": 1225,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 125000,
+      "perLevel": 252
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "collector-catalog",
+        "catalyst": "mnar-stone"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "incentive-chip",
+        "type": "component",
+        "qty": 2
+      },
+      {
+        "id": "malodorous-fruit",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases the odds of obtaining rare items after battle.",
+    "maxBonus": null,
+    "ultimateId": "connoisseur-catalog"
+  },
+  "hunters-friend": {
+    "id": "hunters-friend",
+    "kind": "accessory",
+    "name": "Hunter's Friend",
+    "baseName": "Hunter's Friend",
+    "rank": 5,
+    "ability": "Kill: Libra",
+    "synthesizes": "Random: Instant Chain",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 875,
+    "expPerLevel": 0,
+    "masterExp": 875,
+    "masterExpFromStart": 875,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 2500,
+      "perLevel": 128
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "speed-sash",
+      "catalyst": "uraninite",
+      "startLevel": 1
+    },
+    "upgradedFrom": [],
+    "dismantle": [],
+    "description": "Reveals a piece of information about each defeated enemy.",
+    "maxBonus": null,
+    "ultimateId": "energy-sash"
+  },
+  "speed-sash": {
+    "id": "speed-sash",
+    "kind": "accessory",
+    "name": "Speed Sash",
+    "baseName": "Speed Sash",
+    "rank": 6,
+    "ability": "Kill: ATB Charge",
+    "synthesizes": "Random: Instant Chain",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 1050,
+    "expPerLevel": 0,
+    "masterExp": 1050,
+    "masterExpFromStart": 1050,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 5000,
+      "perLevel": 185
+    },
+    "buyPrice": 10000,
+    "upgradesTo": {
+      "item": "energy-sash",
+      "catalyst": "mnar-stone",
+      "startLevel": 1
+    },
+    "upgradedFrom": [
+      {
+        "item": "hunters-friend",
+        "catalyst": "uraninite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "chocobo-tail-feather",
+        "type": "component",
+        "qty": 40
+      },
+      {
+        "id": "blue-mycelium",
+        "type": "component",
+        "qty": 10
+      }
+    ],
+    "description": "Restores a small amount of the ATB gauge each time an enemy is defeated.",
+    "maxBonus": null,
+    "ultimateId": "energy-sash"
+  },
+  "energy-sash": {
+    "id": "energy-sash",
+    "kind": "accessory",
+    "name": "Energy Sash",
+    "baseName": "Energy Sash",
+    "rank": 7,
+    "ability": "Kill: TP Charge",
+    "synthesizes": "Random: Instant Chain",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 1225,
+    "expPerLevel": 0,
+    "masterExp": 1225,
+    "masterExpFromStart": 1225,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 7500,
+      "perLevel": 252
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "speed-sash",
+        "catalyst": "mnar-stone"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "black-mycelium",
+        "type": "component",
+        "qty": 6
+      }
+    ],
+    "description": "Restores a small amount of TP each time an enemy is defeated.",
+    "maxBonus": null,
+    "ultimateId": "energy-sash"
+  },
+  "doctors-code": {
+    "id": "doctors-code",
+    "kind": "accessory",
+    "name": "Doctor's Code",
+    "baseName": "Doctor's Code",
+    "rank": 2,
+    "ability": "Improved Potions",
+    "synthesizes": null,
+    "chapter": 2,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 200,
+    "expPerLevel": 0,
+    "masterExp": 200,
+    "masterExpFromStart": 200,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 2500,
+      "perLevel": 20
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [],
+    "dismantle": [],
+    "description": "Doubles the restorative effects of Potions.",
+    "maxBonus": null,
+    "ultimateId": "doctors-code"
+  },
+  "gold-watch": {
+    "id": "gold-watch",
+    "kind": "accessory",
+    "name": "Gold Watch",
+    "baseName": "Gold Watch",
+    "rank": 3,
+    "ability": "Time Extension",
+    "synthesizes": null,
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 525,
+    "expPerLevel": 0,
+    "masterExp": 525,
+    "masterExpFromStart": 525,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 10000,
+      "perLevel": 46
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "champions-badge",
+      "catalyst": "cobaltite",
+      "startLevel": 1
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "credit-chip",
+        "type": "component",
+        "qty": 5
+      },
+      {
+        "id": "incentive-chip",
+        "type": "component",
+        "qty": 2
+      }
+    ],
+    "description": "Extends the target time for battles, making it easier to obtain higher ratings.",
+    "maxBonus": null,
+    "ultimateId": "connoisseur-catalog"
+  },
+  "champions-badge": {
+    "id": "champions-badge",
+    "kind": "accessory",
+    "name": "Champion's Badge",
+    "baseName": "Champion's Badge",
+    "rank": 4,
+    "ability": "Victory: TP Charge",
+    "synthesizes": "Random: Instant Chain",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 700,
+    "expPerLevel": 0,
+    "masterExp": 700,
+    "masterExpFromStart": 700,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 5000,
+      "perLevel": 82
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "survivalist-catalog",
+      "catalyst": "perovskite",
+      "startLevel": 1
+    },
+    "upgradedFrom": [
+      {
+        "item": "gold-watch",
+        "catalyst": "cobaltite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "dawnlight-dew",
+        "type": "component",
+        "qty": 8
+      }
+    ],
+    "description": "Causes TP to recharge slightly even after obtaining a low battle rating.",
+    "maxBonus": null,
+    "ultimateId": "connoisseur-catalog"
+  },
+  "fire-charm": {
+    "id": "fire-charm",
+    "kind": "accessory",
+    "name": "Fire Charm",
+    "baseName": "Fire Charm",
+    "rank": 5,
+    "ability": "Random: Fire Eater",
+    "synthesizes": "Fire Damage",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 750,
+    "expPerLevel": 0,
+    "masterExp": 750,
+    "masterExpFromStart": 750,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 7500,
+      "perLevel": 128
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "twenty-sided-die",
+      "catalyst": "mnar-stone",
+      "startLevel": 1
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "chocobo-plume",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "crystal-oscillator",
+        "type": "component",
+        "qty": 3
+      }
+    ],
+    "description": "Occasionally absorbs fire damage as HP.",
+    "maxBonus": null,
+    "ultimateId": "twenty-sided-die"
+  },
+  "ice-charm": {
+    "id": "ice-charm",
+    "kind": "accessory",
+    "name": "Ice Charm",
+    "baseName": "Ice Charm",
+    "rank": 5,
+    "ability": "Random: Ice Eater",
+    "synthesizes": "Ice Damage",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 750,
+    "expPerLevel": 0,
+    "masterExp": 750,
+    "masterExpFromStart": 750,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 7500,
+      "perLevel": 128
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "twenty-sided-die",
+      "catalyst": "mnar-stone",
+      "startLevel": 1
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "chocobo-plume",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "crystal-oscillator",
+        "type": "component",
+        "qty": 3
+      }
+    ],
+    "description": "Occasionally absorbs ice damage as HP.",
+    "maxBonus": null,
+    "ultimateId": "twenty-sided-die"
+  },
+  "lightning-charm": {
+    "id": "lightning-charm",
+    "kind": "accessory",
+    "name": "Lightning Charm",
+    "baseName": "Lightning Charm",
+    "rank": 5,
+    "ability": "Random: Lightning Eater",
+    "synthesizes": "Lightning Damage",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 750,
+    "expPerLevel": 0,
+    "masterExp": 750,
+    "masterExpFromStart": 750,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 7500,
+      "perLevel": 128
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "twenty-sided-die",
+      "catalyst": "mnar-stone",
+      "startLevel": 1
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "chocobo-plume",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "crystal-oscillator",
+        "type": "component",
+        "qty": 3
+      }
+    ],
+    "description": "Occasionally absorbs lightning damage as HP.",
+    "maxBonus": null,
+    "ultimateId": "twenty-sided-die"
+  },
+  "water-charm": {
+    "id": "water-charm",
+    "kind": "accessory",
+    "name": "Water Charm",
+    "baseName": "Water Charm",
+    "rank": 5,
+    "ability": "Random: Water Eater",
+    "synthesizes": "Water Damage",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 750,
+    "expPerLevel": 0,
+    "masterExp": 750,
+    "masterExpFromStart": 750,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 7500,
+      "perLevel": 128
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "twenty-sided-die",
+      "catalyst": "mnar-stone",
+      "startLevel": 1
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "chocobo-plume",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "crystal-oscillator",
+        "type": "component",
+        "qty": 3
+      }
+    ],
+    "description": "Occasionally absorbs water damage as HP.",
+    "maxBonus": null,
+    "ultimateId": "twenty-sided-die"
+  },
+  "wind-charm": {
+    "id": "wind-charm",
+    "kind": "accessory",
+    "name": "Wind Charm",
+    "baseName": "Wind Charm",
+    "rank": 5,
+    "ability": "Random: Wind Eater",
+    "synthesizes": "Wind Damage",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 750,
+    "expPerLevel": 0,
+    "masterExp": 750,
+    "masterExpFromStart": 750,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 7500,
+      "perLevel": 128
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "twenty-sided-die",
+      "catalyst": "mnar-stone",
+      "startLevel": 1
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "chocobo-plume",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "crystal-oscillator",
+        "type": "component",
+        "qty": 3
+      }
+    ],
+    "description": "Occasionally absorbs wind damage as HP.",
+    "maxBonus": null,
+    "ultimateId": "twenty-sided-die"
+  },
+  "earth-charm": {
+    "id": "earth-charm",
+    "kind": "accessory",
+    "name": "Earth Charm",
+    "baseName": "Earth Charm",
+    "rank": 5,
+    "ability": "Random: Earth Eater",
+    "synthesizes": "Earth Damage",
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 750,
+    "expPerLevel": 0,
+    "masterExp": 750,
+    "masterExpFromStart": 750,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 7500,
+      "perLevel": 128
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "twenty-sided-die",
+      "catalyst": "mnar-stone",
+      "startLevel": 1
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "chocobo-plume",
+        "type": "component",
+        "qty": 10
+      },
+      {
+        "id": "crystal-oscillator",
+        "type": "component",
+        "qty": 3
+      }
+    ],
+    "description": "Occasionally absorbs earth damage as HP.",
+    "maxBonus": null,
+    "ultimateId": "twenty-sided-die"
+  },
+  "twenty-sided-die": {
+    "id": "twenty-sided-die",
+    "kind": "accessory",
+    "name": "Twenty-sided Die",
+    "baseName": "Twenty-sided Die",
+    "rank": 7,
+    "ability": "Random: Nullify Damage",
+    "synthesizes": null,
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 1050,
+    "expPerLevel": 0,
+    "masterExp": 1050,
+    "masterExpFromStart": 1050,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 22500,
+      "perLevel": 252
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "fire-charm",
+        "catalyst": "mnar-stone"
+      },
+      {
+        "item": "ice-charm",
+        "catalyst": "mnar-stone"
+      },
+      {
+        "item": "lightning-charm",
+        "catalyst": "mnar-stone"
+      },
+      {
+        "item": "water-charm",
+        "catalyst": "mnar-stone"
+      },
+      {
+        "item": "wind-charm",
+        "catalyst": "mnar-stone"
+      },
+      {
+        "item": "earth-charm",
+        "catalyst": "mnar-stone"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "titanium-tube",
+        "type": "component",
+        "qty": 5
+      },
+      {
+        "id": "electrode",
+        "type": "component",
+        "qty": 5
+      },
+      {
+        "id": "supercharger",
+        "type": "component",
+        "qty": 5
+      },
+      {
+        "id": "incentive-chip",
+        "type": "component",
+        "qty": 3
+      }
+    ],
+    "description": "Very rarely nullifies damage of any given type.",
+    "maxBonus": null,
+    "ultimateId": "twenty-sided-die"
+  },
+  "growth-egg": {
+    "id": "growth-egg",
+    "kind": "accessory",
+    "name": "Growth Egg",
+    "baseName": "Growth Egg",
+    "rank": 8,
+    "ability": "CP: x2",
+    "synthesizes": null,
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 7000,
+    "expPerLevel": 0,
+    "masterExp": 7000,
+    "masterExpFromStart": 7000,
+    "bonus": {
+      "atAnchor": 2,
+      "perLevel": 0
+    },
+    "sellValue": {
+      "atAnchor": 250000,
+      "perLevel": 330
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "perfume",
+        "type": "component",
+        "qty": 2
+      },
+      {
+        "id": "ultracompact-reactor",
+        "type": "component",
+        "qty": 1
+      },
+      {
+        "id": "platinum-ingot",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases CP earned after battle by a factor of 2.",
+    "maxBonus": 2,
+    "ultimateId": "growth-egg"
+  },
+  "entite-ring": {
+    "id": "entite-ring",
+    "kind": "accessory",
+    "name": "Entite Ring",
+    "baseName": "Entite Ring",
+    "rank": 5,
+    "ability": "Resist Elements: +X%",
+    "synthesizes": null,
+    "chapter": 9,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 16,
+    "expBase": 800,
+    "expPerLevel": 185,
+    "masterExp": 31425,
+    "masterExpFromStart": 31425,
+    "bonus": {
+      "atAnchor": 10,
+      "perLevel": 1
+    },
+    "sellValue": {
+      "atAnchor": 60000,
+      "perLevel": 156
+    },
+    "buyPrice": 120000,
+    "upgradesTo": {
+      "item": "goddesss-favor",
+      "catalyst": "uraninite",
+      "startLevel": 2
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "malodorous-fruit",
+        "type": "component",
+        "qty": 4
+      },
+      {
+        "id": "starblossom-seed",
+        "type": "component",
+        "qty": 1
+      },
+      {
+        "id": "perfume",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Increases all elemental resistances by X%.",
+    "maxBonus": 25,
+    "ultimateId": "goddesss-favor"
+  },
+  "goddesss-favor": {
+    "id": "goddesss-favor",
+    "kind": "accessory",
+    "name": "Goddess's Favor",
+    "baseName": "Goddess's Favor",
+    "rank": 6,
+    "ability": "Rapid Recovery",
+    "synthesizes": null,
+    "chapter": 9,
+    "startLevel": 2,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 1800,
+    "expPerLevel": 0,
+    "masterExp": 1800,
+    "masterExpFromStart": 0,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 10,
+      "perLevel": 185
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "entite-ring",
+        "catalyst": "uraninite"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "scarletite",
+        "type": "component",
+        "qty": 1
+      },
+      {
+        "id": "perfume",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Reduces the duration of status ailments.",
+    "maxBonus": null,
+    "ultimateId": "goddesss-favor"
+  },
+  "ribbon": {
+    "id": "ribbon",
+    "kind": "accessory",
+    "name": "Ribbon",
+    "baseName": "Ribbon",
+    "rank": 9,
+    "ability": "Resilience: +X%",
+    "synthesizes": null,
+    "chapter": 9,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 6,
+    "expBase": 2520,
+    "expPerLevel": 783,
+    "masterExp": 20430,
+    "masterExpFromStart": 20430,
+    "bonus": {
+      "atAnchor": 20,
+      "perLevel": 1
+    },
+    "sellValue": {
+      "atAnchor": 10,
+      "perLevel": 442
+    },
+    "buyPrice": null,
+    "upgradesTo": {
+      "item": "super-ribbon",
+      "catalyst": "dark-matter",
+      "startLevel": 4
+    },
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "dusklight-dew",
+        "type": "component",
+        "qty": 36
+      },
+      {
+        "id": "red-mycelium",
+        "type": "component",
+        "qty": 10
+      }
+    ],
+    "description": "Increases all status ailment resistances by X%.",
+    "maxBonus": 25,
+    "ultimateId": "super-ribbon"
+  },
+  "super-ribbon": {
+    "id": "super-ribbon",
+    "kind": "accessory",
+    "name": "Super Ribbon",
+    "baseName": "Super Ribbon",
+    "rank": 10,
+    "ability": "Resilience: +X%",
+    "synthesizes": null,
+    "chapter": 11,
+    "startLevel": 4,
+    "anchorLevel": 4,
+    "maxLevel": 6,
+    "expBase": 5000,
+    "expPerLevel": 1530,
+    "masterExp": 40300,
+    "masterExpFromStart": 20710,
+    "bonus": {
+      "atAnchor": 28,
+      "perLevel": 1
+    },
+    "sellValue": {
+      "atAnchor": 1648,
+      "perLevel": 546
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [
+      {
+        "item": "ribbon",
+        "catalyst": "dark-matter"
+      }
+    ],
+    "dismantle": [
+      {
+        "id": "black-mycelium",
+        "type": "component",
+        "qty": 60
+      },
+      {
+        "id": "starblossom-seed",
+        "type": "component",
+        "qty": 2
+      }
+    ],
+    "description": "Increases all status ailment resistances by X%.",
+    "maxBonus": 30,
+    "ultimateId": "super-ribbon"
+  },
+  "genji-glove": {
+    "id": "genji-glove",
+    "kind": "accessory",
+    "name": "Genji Glove",
+    "baseName": "Genji Glove",
+    "rank": 9,
+    "ability": "Uncapped Damage",
+    "synthesizes": null,
+    "chapter": 11,
+    "startLevel": 1,
+    "anchorLevel": 1,
+    "maxLevel": 2,
+    "expBase": 11250,
+    "expPerLevel": 0,
+    "masterExp": 11250,
+    "masterExpFromStart": 11250,
+    "bonus": null,
+    "sellValue": {
+      "atAnchor": 10,
+      "perLevel": 417
+    },
+    "buyPrice": null,
+    "upgradesTo": null,
+    "upgradedFrom": [],
+    "dismantle": [
+      {
+        "id": "tear-of-woe",
+        "type": "component",
+        "qty": 1
+      },
+      {
+        "id": "trapezohedron",
+        "type": "component",
+        "qty": 1
+      }
+    ],
+    "description": "Enables the wearer to inflict up to 999,999 damage.",
+    "maxBonus": null,
+    "ultimateId": "genji-glove"
+  }
+}
